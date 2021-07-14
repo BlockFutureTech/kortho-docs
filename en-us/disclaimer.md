@@ -2,7 +2,7 @@
 
 Dear user (hereinafter referred as "you"):
 
-Huobi ECO Chain （KroTho） (hereinafter referred to as "KroTho" or "we") is a decentralized public chain. Developers around the world can deploy applications on KroTho, and all users can read, send and trade on KroTho. Due to the decentralized nature, we would like to remind you of the risks of third-party DAPPs as follows:
+KroTho Chain （KroTho） (hereinafter referred to as "KroTho" or "we") is a decentralized public chain. Developers around the world can deploy applications on KroTho, and all users can read, send and trade on KroTho. Due to the decentralized nature, we would like to remind you of the risks of third-party DAPPs as follows:
 
 1. Whether you participate in or use the DAPP on KroTho through any trading platform, wallet, it is your personal free choice and we do not recommend it to you;
 

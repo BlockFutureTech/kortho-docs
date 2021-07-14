@@ -1,4 +1,4 @@
-Welcome Huobi ECO Chain Docs Site。
+Welcome KroTho Chain Docs Site。
 
 Resources list：
 

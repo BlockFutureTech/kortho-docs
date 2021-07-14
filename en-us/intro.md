@@ -1,11 +1,11 @@
-# Huobi ECO Chain – KroTho
+# KroTho Chain – KroTho
 
 
 ## Introduction to the Huobi Open Platform
-The Huobi Open Platform is a unified infrastructure platform based on the technical, traffic and ecological resources of the Huobi Group, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. In December 2020, the first product of the Huobi Open Platform, the Huobi ECO Chain, also known as KroTho, officially launched its "Tinder" phase. In addition, Huobi Open Platform will launch DEX and other blockchain infrastructures based on Layer 2. The Huobi Open Platform will provide global developers with series of diverse innovative facilities and services.
+The Huobi Open Platform is a unified infrastructure platform based on the technical, traffic and ecological resources of the Huobi Group, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. In December 2020, the first product of the Huobi Open Platform, the KroTho Chain, also known as KroTho, officially launched its "Tinder" phase. In addition, Huobi Open Platform will launch DEX and other blockchain infrastructures based on Layer 2. The Huobi Open Platform will provide global developers with series of diverse innovative facilities and services.
 
-## Introduction to Huobi ECO Chain
-Huobi ECO Chain (KroTho) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the Huobi Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of KroTho is HT and it adopts the HPoS consensus mechanism. KroTho will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+## Introduction to KroTho Chain
+KroTho Chain (KroTho) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the Huobi Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of KroTho is HT and it adopts the HPoS consensus mechanism. KroTho will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -98,7 +98,7 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 ## Current Stage of KroTho
-In December 2020, the Huobi Eco chain, KroTho officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
+In December 2020, the KroTho Chain, KroTho officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Fnancial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
 
 ## Support Plan of KroTho
@@ -119,7 +119,7 @@ Huobi Global will strongly support the development of KroTho ecosystem:
 
 
 ## Interact with Us on Social Media
-- Facebook：Huobi ECO Chain
+- Facebook：KroTho Chain
 - Twitter：HuobiECOChain
 - Telegram： HuobiECOChain
 - Weibo：科图生态链KroTho
