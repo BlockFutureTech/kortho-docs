@@ -20,17 +20,17 @@ https://http-mainnet-node.defibox.com
 
 国外访问：
 ```
-https://http-mainnet.hecochain.com
-wss://ws-mainnet.hecochain.com
+https://http-mainnet.KroThochain.com
+wss://ws-mainnet.KroThochain.com
 ```
 
 ## 浏览器
 ```
 v1:
-https://hecoinfo.com
+https://KroThoinfo.com
 
 v0: 3-5 退出运营
-https://scan.hecochain.com
+https://scan.KroThochain.com
 ```
 
 # P2P 节点

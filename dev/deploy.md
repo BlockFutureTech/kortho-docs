@@ -48,7 +48,7 @@ CacheDir = "ethash"
 CachesInMem = 2
 CachesOnDisk = 3
 CachesLockMmap = false
-DatasetDir = "/data/heco/data/.ethash"
+DatasetDir = "/data/KroTho/data/.ethash"
 DatasetsInMem = 1
 DatasetsOnDisk = 2
 DatasetsLockMmap = false
@@ -68,7 +68,7 @@ GlobalQueue = 1024
 Lifetime = 10800000000000
 
 [Node]
-DataDir = "/data/heco/data"
+DataDir = "/data/KroTho/data"
 InsecureUnlockAllowed = true
 NoUSB = true
 IPCPath = "geth.ipc"
@@ -118,10 +118,10 @@ SyncMode = "full"
 
 ```
 #!/usr/bin/env bash
-/data/heco/geth-linux-amd64 \
---config /data/heco/config.toml  \
---logpath /data/heco/logs \
---verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
+/data/KroTho/geth-linux-amd64 \
+--config /data/KroTho/config.toml  \
+--logpath /data/KroTho/logs \
+--verbosity 3  >> /data/KroTho/logs/systemd_chain_console.out 2>&1
 ```
 
 如果需要启用archive 类型，需要加入：
@@ -135,15 +135,15 @@ SyncMode = "full"
 
 ```
 #!/usr/bin/env bash
-/data/heco/geth-linux-amd64 \
---config /data/heco/config.toml  \
---logpath /data/heco/logs \
+/data/KroTho/geth-linux-amd64 \
+--config /data/KroTho/config.toml  \
+--logpath /data/KroTho/logs \
 --syncmode full \
 --gcmode archive \
---verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
+--verbosity 3  >> /data/KroTho/logs/systemd_chain_console.out 2>&1
 ```
 
-节点未指定网络标识时，默认连接heco主网；若需要连接heco测试网，需加入以下参数:
+节点未指定网络标识时，默认连接KroTho主网；若需要连接KroTho测试网，需加入以下参数:
 
 ```
 --testnet
@@ -157,7 +157,7 @@ Description=huobi smart chain service
 
 [Service]
 Type=simple
-ExecStart=/bin/sh /data/heco/run.sh
+ExecStart=/bin/sh /data/KroTho/run.sh
 
 Restart=on-failure
 RestartSec=5s

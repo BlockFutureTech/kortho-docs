@@ -6,8 +6,8 @@
 ```
 ## rpc
 ```
-https://http-testnet.hecochain.com
-wss://ws-testnet.hecochain.com
+https://http-testnet.KroThochain.com
+wss://ws-testnet.KroThochain.com
 ```
 
 Visit from China Mainland：
@@ -18,11 +18,11 @@ wss://ws-testnet.huobichain.com
 
 ## explorer
 ```
-https://scan-testnet.hecochain.com
+https://scan-testnet.KroThochain.com
 ```
 
 ## faucet
 
 ```
-https://scan-testnet.hecochain.com/faucet
+https://scan-testnet.KroThochain.com/faucet
 ```

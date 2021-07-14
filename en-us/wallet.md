@@ -15,7 +15,7 @@ download url：https://metamask.io/
 ```
 chainid: 128
 rpc: https://http-mainnet-node.huobichain.com
-scan: https://hecoinfo.com
+scan: https://KroThoinfo.com
 ```
 
 ![metamask](../images/metamask2_en.png)
@@ -24,8 +24,8 @@ scan: https://hecoinfo.com
 
 ```
 chainid: 256
-rpc: https://http-testnet.hecochain.com
-scan: https://testnet.hecoinfo.com
+rpc: https://http-testnet.KroThochain.com
+scan: https://testnet.KroThoinfo.com
 ```
 
 # huobi wallet app

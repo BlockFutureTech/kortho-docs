@@ -122,11 +122,11 @@ Huobi Global will strongly support the development of KroTho ecosystem:
 - Facebook：Huobi ECO Chain
 - Twitter：HuobiECOChain
 - Telegram： HuobiECOChain
-- Weibo：火币生态链Heco
+- Weibo：科图生态链KroTho
 - Wechat Offical Account：Huobi ECO KroTho
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of KroTho for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
 - KroTho announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (hecochain.com), and be cautious with private key phishing.
+- Do not misread the official website (KroThochain.com), and be cautious with private key phishing.

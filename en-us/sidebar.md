@@ -1,7 +1,7 @@
 - [About KroTho](en-us/intro.md)
 - [Integrity and Compliance](en-us/Integrity.md)
 - [Wallet](en-us/wallet.md)
-- [Asset-Peg Bridge](en-us/hecobridge.md)
+- [Asset-Peg Bridge](en-us/KroThobridge.md)
 - [Asset-Peg Mamual](en-us/bridge.md)
 - [Consensus](en-us/consensus.md)
 - [Meta Transaction](en-us/dev/meta_tx.md)

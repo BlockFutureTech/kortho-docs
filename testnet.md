@@ -6,8 +6,8 @@
 ```
 ## rpc
 ```
-https://http-testnet.hecochain.com
-wss://ws-testnet.hecochain.com
+https://http-testnet.KroThochain.com
+wss://ws-testnet.KroThochain.com
 ```
 
 大陆访问
@@ -18,11 +18,11 @@ wss://ws-testnet.huobichain.com
 
 ## 浏览器
 ```
-https://testnet.hecoinfo.com
+https://testnet.KroThoinfo.com
 ```
 
 ## 测试币水龙头
-https://scan-testnet.hecochain.com/faucet
+https://scan-testnet.KroThochain.com/faucet
 
 
 ## P2P节点

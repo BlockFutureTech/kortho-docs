@@ -10,7 +10,7 @@
 
 ## 编译
 ```
-cd /path/to/hecochain
+cd /path/to/KroThochain
 make geth
 ```
 > 如果希望进行跨平台编译，比如在`Mac`上编译`Linux`平台的二进制文件，可以使用 `make geth-linux`相关命令操作

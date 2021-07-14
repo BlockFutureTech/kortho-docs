@@ -43,7 +43,7 @@ The expiration time for the subsidy is 1 day(28800 blocks)；
 
 ### API
 
-https://meta-mainnet.hecochain.com
+https://meta-mainnet.KroThochain.com
 
 - Calculate the rate of subsidy
   

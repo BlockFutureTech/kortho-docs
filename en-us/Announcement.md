@@ -1,6 +1,6 @@
 # The latest Announcement
 
-## Calling for HECO Alliance Ambassador — Batch One!
+## Calling for KroTho Alliance Ambassador — Batch One!
 
 
 Welcome to the KroTho Alliance Ambassador Program!
@@ -47,22 +47,22 @@ If you are passionate about joining the KroTho platform, we welcome you to becom
 
 Location: Global
 
-Selection Criteria: Passionate about blockchain and a supporter of HECO
+Selection Criteria: Passionate about blockchain and a supporter of KroTho
 
 Application：
 https://docs.google.com/forms/d/e/1FAIpQLSc5I6kKTHtQ9Fi_B8fj0mOFL3pgkZFttoH_y96FPq39o8TolQ/viewform
 
 
 
-HECO Team
+KroTho Team
 
-## Announcement of KroTho that 26 Anchor Tokens to be Launched in Huobi Ecological Chain HECO
+## Announcement of KroTho that 26 Anchor Tokens to be Launched in Huobi Ecological Chain KroTho
 
 Dear users: Anchor tokens of WBTC、CRO、FTT、GRT、MKR、COMP、UMA、NEXO、REN、ZRX、BAT、OMG、BNT、MATIC、ZKS、1INCH、NPXS、CRV、HOT、RSR、MANA、ACH 、MUSK、MX、TRIO and YCC will be launched on KroTho soon. Please wait for the official announcement of the specific opening time.
 
 Name	                      KroTho Contract Address
 
-KroTho-Peg WBTCHECO Token	   0x70D171d269D964d14aF9617858540061e7bE9EF1
+KroTho-Peg WBTCKroTho Token	   0x70D171d269D964d14aF9617858540061e7bE9EF1
 
 KroTho-Peg CRO Token	        0xF7e1E39e239C5A920849f435F66097D2e412859e
 
@@ -143,14 +143,14 @@ Awards and benefits:
 All 'Gold Creator' winners can get KroTho global marketing resources support
 
 Registration form：
-Please developers through Huobi ecological chain official website: hecochain.com to register or submit an application through the following registration link：
+Please developers through Huobi ecological chain official website: KroThochain.com to register or submit an application through the following registration link：
 
 Chinese registration link:https://jinshuju.net/f/mkP0ZU
 
 English registration link:https://docs.google.com/forms/d/1btQP4tg_qpjNjrk70uSb-jW2vooOFr2lM3ImGagXaJg/prefill
 
 * All registration projects can log in to the "creator ecological map" and get the whole network publicity opportunities
-Developers are requested to register through the official website of KroTho: hecochain.com or submit an application through the following registration link:
+Developers are requested to register through the official website of KroTho: KroThochain.com or submit an application through the following registration link:
 
 Registration link in Chinese : https://jinshuju.net/f/pylg4Q
 
@@ -163,16 +163,16 @@ March 2st,2021
 
 ## KroTho Initiates Combating Scam Along with Partners
 
-It has come to our knowledge that there have been projects created with malicious purposes on HECO. And we will take a series of actions to guarantee a safe and healthy developing environment: in-depth security audits on various eco projects, opening source codes, adding time locks and deploying governance contracts.
+It has come to our knowledge that there have been projects created with malicious purposes on KroTho. And we will take a series of actions to guarantee a safe and healthy developing environment: in-depth security audits on various eco projects, opening source codes, adding time locks and deploying governance contracts.
 
-HECO wants to work with the community with a sincere and honest mindset and using community governance for restraint on bad behaviors. We want to help projects gain more users' trust and participation. For quality projects, KroTho will also join hands with partners and continue providing them with strong support. At the same time, to promote the healthy development of the KroTho ecosystem, KroTho and its partners will ONLY support projects that complete security audits, open source, and decentralized. KroTho will boycott the projects that are not. 
+KroTho wants to work with the community with a sincere and honest mindset and using community governance for restraint on bad behaviors. We want to help projects gain more users' trust and participation. For quality projects, KroTho will also join hands with partners and continue providing them with strong support. At the same time, to promote the healthy development of the KroTho ecosystem, KroTho and its partners will ONLY support projects that complete security audits, open source, and decentralized. KroTho will boycott the projects that are not. 
 
 KroTho recommends frequent community participation in DeFi rationally and for users to carefully understand and study how the project works, the team's background, and the code before participation. Do not participate in unaudited, non-open source projects.
 
 In order to promote the development of quality projects, KroTho has joined hands with well-known auditing organizations to provide green audit channels for KroTho eco-projects and take practical measures to help the healthy development of KroTho eco-projects.
 
 
-HECO Team
+KroTho Team
 
 ## MX, native token of MXC platform, will be cross-linked into KroTho.
 
@@ -186,7 +186,7 @@ Huobi Eco Chain KroTho and MXC platform have deepen their cooperation. The conte
 
 KroTho team
 
-## 19 Anchor Tokens to be Launched in Huobi Ecological Chain HECO
+## 19 Anchor Tokens to be Launched in Huobi Ecological Chain KroTho
 
 Dear users: 
 
@@ -241,7 +241,7 @@ Dear KroTho users, for your better experience, please choose RPC server accordin
 
 Global: https://http-mainnet-node.huobichain.com
 
-China mainland: https://http-mainnet.hecochain.com
+China mainland: https://http-mainnet.KroThochain.com
 
 ## KroTho Eco Alliance Announces First Exchange Membership List
 
@@ -279,7 +279,7 @@ Risk warning：
 
 3. Huobi ECO Chain will announce authorization, promotion and other cooperation through the official social platform. Warmly remind developers and users to double check the information to avoid losses.
 
-4. Please identify the official website (hecochain.com ) to avoid private key phishing.
+4. Please identify the official website (KroThochain.com ) to avoid private key phishing.
 
 ## Huobi ECO Chain " WE MAKE FUTURE "program is open now for registration 
  
@@ -315,13 +315,13 @@ Registration Form in Chinese: https://jinshuju.net/f/mkP0ZU
 
 Registration Form in English: https://forms.gle/rVYnxdoh7dAc2Cfw5
  
-For more details, please visit our website: www.hecochain.com 
+For more details, please visit our website: www.KroThochain.com 
  
 Risk Warning: 
 1. KroTho announces authorization, promotion, and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses. 
 2. All users and developers can participate in the test environment and the Mainnet of KroTho for free, and there is no charge. 
 3. All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud. 
-4. The official website is www.hecochain.com. Please be cautious with private key phishing. 
+4. The official website is www.KroThochain.com. Please be cautious with private key phishing. 
  
 Huobi ECO Chain 
 

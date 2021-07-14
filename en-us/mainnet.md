@@ -8,8 +8,8 @@
 
 International visit:
 ```
-https://http-mainnet.hecochain.com
-wss://ws-mainnet.hecochain.com
+https://http-mainnet.KroThochain.com
+wss://ws-mainnet.KroThochain.com
 ```
 
 Visit from China Mainland：
@@ -21,7 +21,7 @@ wss://ws-mainnet-node.huobichain.com
 
 ## explorer
 ```
-https://hecoinfo.com
+https://KroThoinfo.com
 ```
 
 # P2P Nodes

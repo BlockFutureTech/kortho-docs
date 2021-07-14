@@ -10,7 +10,7 @@ Reference: [Go Download and install](https://golang.org/doc/install)
 
 ## Compile
 ```
-cd /path/to/hecochain
+cd /path/to/KroThochain
 make geth
 ```
 > If you want to use cross compile, like compiling on `Mac` for `Linux`, use `make geth-linux`, `make geth-linux-amd64`, etc.

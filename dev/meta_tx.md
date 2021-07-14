@@ -34,7 +34,7 @@ https://github.com/HuobiGroup/metatx-Java-demo
 - 广播交易信息到链上；
 
 ## 官方元交易服务
-火币官方提供元交易服务，根据调用者的`HT`持仓量，进行手续费补贴。
+科图官方提供元交易服务，根据调用者的`HT`持仓量，进行手续费补贴。
 
 交易生效有效期是 1 天（28800 区块）；
 
@@ -46,8 +46,8 @@ https://github.com/HuobiGroup/metatx-Java-demo
 ### API
 
 ```
-https://meta-mainnet.hecochain.com [主网]
-https://meta-testnet.hecochain.com [测试网]
+https://meta-mainnet.KroThochain.com [主网]
+https://meta-testnet.KroThochain.com [测试网]
 ```
 
 - 计算补贴费率

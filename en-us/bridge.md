@@ -6,7 +6,7 @@ KroTho encourages community developers to provide more decentralized cross-chain
 
 This document describes the option for project parties to map Tokens from the source chain to KroTho on their own.
 
-> [heco-brige ref here](./hecobridge.md)
+> [KroTho-brige ref here](./KroThobridge.md)
 
 The project owner **self** maintains the total balance of Token on the multi-chain including KroTho, and endorses the credibility of Token.
 
@@ -26,14 +26,14 @@ Src_Token: Token on the source chain, possibly a contract, or a native Token
 
 Locked address or contract: the address used to lock the Token
 
-Heco_Token: Token on KroTho's chain
+KroTho_Token: Token on KroTho's chain
 ## Initial Preparation
 
 1) Deploy the lock address or contract on the source chain `Src_Lock_Addr`
 
-2) Deploy Token on KroTho: `Heco_Token`
+2) Deploy Token on KroTho: `KroTho_Token`
 
-3) Deploy a lock address or contract on KroTho `Heco_Lock_Addr`
+3) Deploy a lock address or contract on KroTho `KroTho_Lock_Addr`
 
 If you need multiple sign contracts, you can refer to [gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet).
 
@@ -49,15 +49,15 @@ Translated with www.DeepL.com/Translator (free version)
 
 Transfer a certain amount of `Src_Token` to `Src_Lock_Addr` for locking
 
-2) Release `Heco_Token` on the KroTho chain
+2) Release `KroTho_Token` on the KroTho chain
 
-Execute mint operation to give `Heco_Lock_Addr` the corresponding amount of `Heco_Token`
+Execute mint operation to give `KroTho_Lock_Addr` the corresponding amount of `KroTho_Token`
 
 ## KroTho chain->Source chain
 
-1) KroTho chain lock `Heco_Token`
+1) KroTho chain lock `KroTho_Token`
 
-Execute burn operation, destroy `Heco_Token`
+Execute burn operation, destroy `KroTho_Token`
 
 2) Release `Src_Token` on the source chain
 
