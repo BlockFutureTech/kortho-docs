@@ -1,5 +1,5 @@
 # On-chain interaction
-`Heco` is compatible with `Ethereum`'s ecosystem，support all `Ethereum`'s `RPC` API and DK。
+`KroTho` is compatible with `Ethereum`'s ecosystem，support all `Ethereum`'s `RPC` API and DK。
 
 ## RPC
 [RPC Method List](https://eth.wiki/json-rpc/api)

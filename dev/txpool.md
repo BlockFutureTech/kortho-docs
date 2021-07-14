@@ -11,7 +11,7 @@
 
 ### 原因解释
 
-> Heco 使用与账户地址相关的 nonce 数值来控制交易重放和顺序执行。
+> KroTho 使用与账户地址相关的 nonce 数值来控制交易重放和顺序执行。
 
 > 交易中需要填写正确的 nonce 数值才可以成功上链，正确的 nonce 数值与 eth.getTransactionCount("0xadd") 相等。
 

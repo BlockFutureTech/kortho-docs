@@ -8,61 +8,61 @@ Heco即将上线WBTC、CRO、FTT、GRT、MKR、COMP、UMA、NEXO、REN、ZRX、B
 
 名字	Heco合约地址
 
-Heco-Peg WBTCHECO Token	0x70D171d269D964d14aF9617858540061e7bE9EF1
+KroTho-Peg WBTCHECO Token	0x70D171d269D964d14aF9617858540061e7bE9EF1
 
-Heco-Peg CRO Token	0xF7e1E39e239C5A920849f435F66097D2e412859e
+KroTho-Peg CRO Token	0xF7e1E39e239C5A920849f435F66097D2e412859e
 
-Heco-Peg FTT Token	0xC7f7a54892B78b5c812c58d9Df8035FcE9F4D445
+KroTho-Peg FTT Token	0xC7f7a54892B78b5c812c58d9Df8035FcE9F4D445
 
-Heco-Peg GRT Token	0xfAdD0c7762c59cEBC5248019dBAC652319CEBDbd
+KroTho-Peg GRT Token	0xfAdD0c7762c59cEBC5248019dBAC652319CEBDbd
 
-Heco-Peg MKR Token	0x34D75515090902a513F009f4505A750efaaD63b0
+KroTho-Peg MKR Token	0x34D75515090902a513F009f4505A750efaaD63b0
 
-Heco-Peg COMP Token	0xCe0A5CA134fb59402B723412994B30E02f083842
+KroTho-Peg COMP Token	0xCe0A5CA134fb59402B723412994B30E02f083842
 
-Heco-Peg UMA Token	0xe2563F0a1787ac8a9fA67f3124a3d0AE92d574d2
+KroTho-Peg UMA Token	0xe2563F0a1787ac8a9fA67f3124a3d0AE92d574d2
 
-Heco-Peg NEXO Token	0x3a6B8B642aa154bAdA89eD3730C9E820Da79AD24
+KroTho-Peg NEXO Token	0x3a6B8B642aa154bAdA89eD3730C9E820Da79AD24
 
-Heco-Peg REN Token	0x212208bcc81F3a2D0188afF76A2d39351eb53b96
+KroTho-Peg REN Token	0x212208bcc81F3a2D0188afF76A2d39351eb53b96
 
-Heco-Peg ZRX Token	0x0212dA773704cbc4F476bA827406363c87E8D3Bd
+KroTho-Peg ZRX Token	0x0212dA773704cbc4F476bA827406363c87E8D3Bd
 
-Heco-Peg BAT Token	0xb04Ee982E6329FeBe4c70A53d1725469A1F6963A
+KroTho-Peg BAT Token	0xb04Ee982E6329FeBe4c70A53d1725469A1F6963A
 
-Heco-Peg OMG Token	0x359aA457CC0eF0a64b8Aa7e4EcD967DfB30cEF48
+KroTho-Peg OMG Token	0x359aA457CC0eF0a64b8Aa7e4EcD967DfB30cEF48
 
-Heco-Peg BNT Token	0x756a3dCF7171Ad147A801318a7caB3284cFf6a85
+KroTho-Peg BNT Token	0x756a3dCF7171Ad147A801318a7caB3284cFf6a85
 
-Heco-Peg MATIC Token	0xdB11743fe8B129b49b11236E8a715004BDabe7e5
+KroTho-Peg MATIC Token	0xdB11743fe8B129b49b11236E8a715004BDabe7e5
 
-Heco-Peg ZKS Token	0xe25A7D0B6bcDa2a832d255edef1387E72d20883b
+KroTho-Peg ZKS Token	0xe25A7D0B6bcDa2a832d255edef1387E72d20883b
 
-Heco-Peg 1INCH Token	0xD192f8e3224Ff0f48B08DB4791576B6878B426A0
+KroTho-Peg 1INCH Token	0xD192f8e3224Ff0f48B08DB4791576B6878B426A0
 
-Heco-Peg NPXS Token	0x7b92E0aF7aE7de1c65710869F691231772A8B927
+KroTho-Peg NPXS Token	0x7b92E0aF7aE7de1c65710869F691231772A8B927
 
-Heco-Peg CRV Token	0x6BCE534a02f8347f747124082Ef3e35Dd696748D
+KroTho-Peg CRV Token	0x6BCE534a02f8347f747124082Ef3e35Dd696748D
 
-Heco-Peg HOT Token	0x26dB8742DA87d2E74911BFA4A349D4f6F7fc6037
+KroTho-Peg HOT Token	0x26dB8742DA87d2E74911BFA4A349D4f6F7fc6037
 
-Heco-Peg RSR Token	0x8f6303C8a21398c91abB5EfF3b3C9315CA59CbE8
+KroTho-Peg RSR Token	0x8f6303C8a21398c91abB5EfF3b3C9315CA59CbE8
 
-Heco-Peg MANA Token	0x09006b66d89e5213Fc173403AACBA30620A91F4e
+KroTho-Peg MANA Token	0x09006b66d89e5213Fc173403AACBA30620A91F4e
 
-Heco-Peg ACH  Token	0x4a31D1Ad7430586752A1888fE947E3E7D52aFfB8
+KroTho-Peg ACH  Token	0x4a31D1Ad7430586752A1888fE947E3E7D52aFfB8
 
-Heco-Peg MUSK Token	0x245A3bb0fB1385522d883D8d8b4a91da17548C07
+KroTho-Peg MUSK Token	0x245A3bb0fB1385522d883D8d8b4a91da17548C07
 
-Heco-Peg MX Token	0x8d854e603dc777337134286f5b3408261736a88F
+KroTho-Peg MX Token	0x8d854e603dc777337134286f5b3408261736a88F
 
-Heco-Peg TRIO Token	0xEb6EbcaF096F99c7701DD6B90a013E6e1A3f0617
+KroTho-Peg TRIO Token	0xEb6EbcaF096F99c7701DD6B90a013E6e1A3f0617
 
-Heco-Peg YCC Token	0x80898823FdD0B961C2E9809eF75B673E7f4aa02D
+KroTho-Peg YCC Token	0x80898823FdD0B961C2E9809eF75B673E7f4aa02D
 
 Heco团队
 
-## Heco《造物主计划》第二期正式开启报名
+## KroTho《造物主计划》第二期正式开启报名
 
 Heco是一个年轻、充满活力、无限可能的世界，自上线开始全球近百个开发团队与我们共同启动了“造物时代”，共同建设Heco生态。Heco希望给全球开发者提供更高效的支持，奖励生态建设者与贡献者。Heco将启动《造物主计划》第二期，开发者可以在Heco上部署、运行DAPP，Heco将根据报名项目的运行情况评定出Top10并给予“金牌造物主”称号及奖励。
 
@@ -98,7 +98,7 @@ Top10“金牌造物主”奖项及权益：
 3.大家务必区分好测试环境和主网，测试环境所产生的资产不具备任何价值，谨防假币诈骗； 
 4. 认准官方网址（hecochain.com），避免出现被私钥钓鱼等情况。 
 
-Heco 
+KroTho 
 2021年3月2日
 
 ## Heco联合合作伙伴抵制恶性项目公告
@@ -135,13 +135,13 @@ Heco团队
 
 尊敬的用户，
 
-新春将近，Heco官方联合链上12家优质项目共同发起新春150万福利活动《Heco 嗨够红包周》，感谢您对Heco及Heco生态的大力支持。
+新春将近，Heco官方联合链上12家优质项目共同发起新春150万福利活动《KroTho 嗨够红包周》，感谢您对Heco及Heco生态的大力支持。
 
 活动时间：
 2021.2.4-2021.2.9
 
 活动规则：
-活动期间，用户可参与Heco指定项目方发起的空投活动，根据各项目发布的规则领取 “嗨够红包”。空投共计12场，每天由2-3个项目方各自发起一场，空投活动之间相互独立，用户均可参与。Heco用户可通过DeFibox.com查看《Heco 嗨够红包周》攻略地图，获取每场空投信息和规则。
+活动期间，用户可参与Heco指定项目方发起的空投活动，根据各项目发布的规则领取 “嗨够红包”。空投共计12场，每天由2-3个项目方各自发起一场，空投活动之间相互独立，用户均可参与。Heco用户可通过DeFibox.com查看《KroTho 嗨够红包周》攻略地图，获取每场空投信息和规则。
 
 空投项目及时间：
 
@@ -193,7 +193,7 @@ Heco生态联盟将为优质开发者进行投资、交易、流量、品牌等�
 
 ## Huobi DeFi Labs成立Heco生态基金，助力火币生态链上项目发展
  
-12月21日，Huobi DeFi Labs宣布成立“Heco生态基金（Heco Fund ）”。Heco生态基金用于支持火币开放平台和火币生态链上项目发展，促进火币生态的繁荣。Heco生态基金近期将重点关注火币生态链上的DEX、借贷、预言机、跨链解决方案、稳定币兑换、保险等方向的优质项目。
+12月21日，Huobi DeFi Labs宣布成立“Heco生态基金（KroTho Fund ）”。Heco生态基金用于支持火币开放平台和火币生态链上项目发展，促进火币生态的繁荣。Heco生态基金近期将重点关注火币生态链上的DEX、借贷、预言机、跨链解决方案、稳定币兑换、保险等方向的优质项目。
  
 Huobi DeFiLabs是聚焦于DeFi的研究、投资孵化和生态建设的平台，致力于与全球数字资产社区和DeFi社区共同创建金融新世界。
  

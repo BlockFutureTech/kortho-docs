@@ -38,6 +38,6 @@ https://www.huobiwallet.com/
 
 > 待公布
 
-# Heco cointtype
+# KroTho cointtype
 
 https://github.com/satoshilabs/slips/blob/master/slip-0044.md

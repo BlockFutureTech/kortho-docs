@@ -3,7 +3,7 @@
 
 # jsonrpc 规范
 
-Heco 节点支持 [json-rpc 2.0](https://www.jsonrpc.org/specification)标准的 http 请求。
+KroTho 节点支持 [json-rpc 2.0](https://www.jsonrpc.org/specification)标准的 http 请求。
 
 一个典型的 json-rpc 请求是这样的：
 
@@ -53,7 +53,7 @@ curl --location --request POST 'https://http-mainnet-node.huobichain.com' \
 | -32603           | Internal error内部错误     | JSON-RPC内部错误。                                         |
 | -32000 to -32099 | Server error服务端错误     |                                                            |
 
-# Heco json-rpc 的错误
+# KroTho json-rpc 的错误
 
 请参考[文档](https://eips.ethereum.org/EIPS/eip-1474#error-codes)；
 

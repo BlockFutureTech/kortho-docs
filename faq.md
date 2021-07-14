@@ -47,7 +47,7 @@ RPC接口兼容以太坊，可直接使用web3.js，对以太坊开发者完全�
 
 多发 mac chrome 浏览器下，
 
-具体表现是，输入转币数量卡顿、获取 gasprice 延迟导致输入为 0，这个问题是一个已知问题，可以参考 Heco 团队给 metamask 的提的 issue：
+具体表现是，输入转币数量卡顿、获取 gasprice 延迟导致输入为 0，这个问题是一个已知问题，可以参考 KroTho 团队给 metamask 的提的 issue：
 https://github.com/MetaMask/metamask-extension/issues/10202
 
 解决办法如下：

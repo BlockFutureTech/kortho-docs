@@ -1,6 +1,6 @@
 # Summary
 
-Heco support metamask、huobi wallet app、huobi wallet extension
+KroTho support metamask、huobi wallet app、huobi wallet extension
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
@@ -36,6 +36,6 @@ https://www.huobiwallet.com/
 
 > to release soon
 
-# cointtype for Heco
+# cointtype for KroTho
 
 https://github.com/satoshilabs/slips/blob/master/slip-0044.md

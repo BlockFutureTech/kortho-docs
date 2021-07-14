@@ -1,5 +1,5 @@
 # 智能合约操作
-`Heco`使用`EVM`作为虚拟机，全面兼容以太坊合约开发。具体开发文档参见[Solidity](https://docs.soliditylang.org/en/v0.7.1/#)
+`KroTho`使用`EVM`作为虚拟机，全面兼容以太坊合约开发。具体开发文档参见[Solidity](https://docs.soliditylang.org/en/v0.7.1/#)
 
 
 ## 使用Remix部署合约
