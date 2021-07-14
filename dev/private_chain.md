@@ -84,6 +84,6 @@ geth init genesis.json
 
 ## 使用docker-compose
 
-如果想使用docker-compose搭建运行多节点私链，可以参考 <https://github.com/HuobiGroup/huobi-eco-chain-docs/tree/master/docker/multi>。
+如果想使用docker-compose搭建运行多节点私链，可以参考 <https://gitee.com/yunsu-dapp/kto-chain-docs.git/tree/master/docker/multi>。
 
 > 注意，需提前将Linux-amd64版的 `geth` 放置到 multi 目录。
