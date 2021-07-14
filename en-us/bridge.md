@@ -6,7 +6,7 @@ KroTho encourages community developers to provide more decentralized cross-chain
 
 This document describes the option for project parties to map Tokens from the source chain to KroTho on their own.
 
-> [KroTho-brige ref here](./KroThobridge.md)
+> [KroTho-brige ref here](./ktobridge.md)
 
 The project owner **self** maintains the total balance of Token on the multi-chain including KroTho, and endorses the credibility of Token.
 

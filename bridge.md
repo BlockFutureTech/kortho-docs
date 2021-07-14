@@ -6,7 +6,7 @@ KroTho鼓励社区开发者提供更多去中心化的跨链解决方案。
 
 本文档描述了项目方自行将 Token 从源链承兑到 KroTho 的方案。
 
-> [跨链桥请参考](./KroThobridge.md)
+> [跨链桥请参考](./ktobridge.md)
 
 项目 **自行** 维护 Token 在包含 KroTho 的多链上的总量平衡，对 Token 的公信力进行背书。
 

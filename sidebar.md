@@ -1,7 +1,7 @@
 - [关于KroTho](/intro.md)
 - [廉正举报](/Integrity.md)
 - [钱包](/wallet.md)
-- [资产跨链-跨链桥](/KroThobridge.md)
+- [资产跨链-跨链桥](/ktobridge.md)
 - [资产跨链-自行跨链](/bridge.md)
 - [共识](/consensus.md)
 - [元交易](/dev/meta_tx.md)
