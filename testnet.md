@@ -2,23 +2,19 @@
 
 ## chainid
 ```
-256
+8285
 ```
 ## rpc
 ```
-https://http-testnet.KroThochain.com
-wss://ws-testnet.KroThochain.com
+https://www.krotho-test.net
+wss://www.krotho-test.net
 ```
 
-大陆访问
-```
-https://http-testnet.huobichain.com 
-wss://ws-testnet.huobichain.com
-```
+
 
 ## 浏览器
 ```
-https://testnet.KroThoinfo.com
+https://www.kortho-test.com/
 ```
 
 ## 测试币水龙头

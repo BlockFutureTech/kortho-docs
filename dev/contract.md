@@ -23,7 +23,7 @@
 
 1. 设置网络信息，设置完成后保存。
 
-![avatar](../images/metamask2_en.png)
+![avatar](../images/metamask2.png)
 
 2. 返回到`Remix`界面
 + 切换环境
@@ -85,12 +85,12 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 module.exports = {
   networks: {
     testnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-testnet.KroThochain.com'),
-      network_id: 256
+      provider: () => new HDWalletProvider(mnemonic, 'https://www.krotho-test.net'),
+      network_id: 8285
     },
     mainnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-mainnet.KroThochain.com'),
-      network_id: 128
+      provider: () => new HDWalletProvider(mnemonic, 'https://www.krotho-test.net'),
+      network_id: 8285
     }
   },
 
