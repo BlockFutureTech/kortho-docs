@@ -265,7 +265,7 @@ Dear customer,
 
 KroTho Chain, also known as KroTho, is officially launched on 21st Dec. 2020，with characteristics such as high performance, low gas fee, and better cross-chain user experience, etc.
 
-The Meta-transaction function adopted by KroTho enables developers with better on-chain operations, of which the essence is to cover the gas fee payment, and the purpose is to reduce the cost of users using KroTho services. In other words, KroTho intends to subsidize users by paying a part of their gas fee in accordance with their HT holding volume. In addition, sepecial gas fee subsidy could be given for specific DApps.
+The Meta-transaction function adopted by KroTho enables developers with better on-chain operations, of which the essence is to cover the gas fee payment, and the purpose is to reduce the cost of users using KroTho services. In other words, KroTho intends to subsidize users by paying a part of their gas fee in accordance with their KTO holding volume. In addition, sepecial gas fee subsidy could be given for specific DApps.
 
 ![avatar](../images/grade-en.png)
 
