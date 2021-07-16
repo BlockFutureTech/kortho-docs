@@ -22,6 +22,7 @@
     - [gasprice](/dev/gasprice.md)
     - [交易池问题](/dev/txpool.md)
     - [挖矿交易加速](/dev/txspeedup.md)
+    - [地址绑定](/dev/bingding_address.md)
 - 公告
     - [公告](/Announcement.md)
 - FAQ

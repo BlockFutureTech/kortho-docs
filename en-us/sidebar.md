@@ -20,6 +20,7 @@
     - [WalletConnect](en-us/dev/wallet-connect.md)
     - [gasprice](en-us/dev/gasprice.md)
     - [Txpool](en-us/dev/txpool.md)
+    - [BindingAddress](en-us/dev/bingding_address.md)
 - Announcement
     - [Announcement](en-us/Announcement.md)
 - FAQ
