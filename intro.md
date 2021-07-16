@@ -2,10 +2,10 @@
 
 
 ## 科图开放平台介绍
-科图开放平台是基于科图集团的技术资源、流量资源和生态资源，向区块链行业陆续全面开放的基础设施统一平台。使去中心化应用的搭建效率更高成本更低，并在推广、流量、资源等方面进行全方位赋能。2020年12月，科图开放平台推出的第一个产品——科图生态链KroTho正式启动“火种”阶段，后续科图开放平台将推出基于Layer2扩展方案的DEX及其他区块链基础设施。科图开放平台将为全球开发者提供更多元的创新设施和基础服务。
+科图开放平台是基于科图集团的技术资源、流量资源和生态资源，向区块链行业陆续全面开放的基础设施统一平台。使去中心化应用的搭建效率更高成本更低，并在推广、流量、资源等方面进行全方位赋能。科图开放平台将为全球开发者提供更多元的创新设施和基础服务。
 
 ## 科图生态链KroTho简介
-科图生态链 KroTho Chain (KroTho) 是一个去中心化高效节能公链，也是科图开放平台推出的首个产品，在支撑高性能交易的基础上，实现智能合约的兼容。科图生态链KroTho的原生数字资产为HT，采用HPoS共识机制。
+科图生态链 KroTho Chain (KroTho) 是一个去中心化高效节能公链，也是科图开放平台推出的首个产品，在支撑高性能交易的基础上，实现智能合约的兼容。科图生态链KroTho的原生数字资产为KTO，采用HPoS共识机制。
 
 ## 宣言
 助力开发者成长的每个阶段
@@ -23,14 +23,9 @@ KroTho的使命不仅是一条公链，更加会倾注在优质开发者、早�
 
 ## 经济模型
 链上原生代币是 KTO；交易消耗  KTO作为链上交易手续费；
-通过质押HT来成为验证人节点。节点按照质押比例分配奖励，奖励是链上交易手续费。
+通过质押 KTO 来成为验证人节点。节点按照质押比例分配奖励，奖励是链上交易手续费。
 
-## 跨链
-可通过资产跨链桥，将ETH、BTC、稳定币等资产映射到KroTho，实现方式为在源链上锁定一定数量的资产后在KroTho生成对应数量的Token。
-KroTho鼓励社区开发者提供更多去中心化的跨链解决方案。
 
-## 元交易功能
-支持元交易功能，可以实现用户阶梯式减免链上交易手续费，减免部分由KroTho代替用户支付。该功能可有效降低DApp开发者的迁移成本，可大幅降低用户使用DApp的成本。
 
 ## KroTho技术特性
 - 开放、去中心化的网络，维护网络和资产的安全；
@@ -40,62 +35,20 @@ KroTho鼓励社区开发者提供更多去中心化的跨链解决方案。
 
 
 
-## KroTho的四个阶段
-<table >
-    <tr style="background:rgba(0,0,0,0)" ><th colspan=5>科图生态链KroTho技术路线</th> </tr>
-    <tr style="background:rgba(0,0,0,0)" >
-<th > 阶段 </th><th> 特征 </th><th> 时间 </th><th> 阶段细分 </th><th> 技术能力 </th>
-</tr>
-<tr style="background:rgba(0,0,0,0)" >
-<tr style="background:rgba(0,0,0,0)" ><td rowspan=9 >火种</td><td rowspan=9 >KroTho的最初版本，系统稳定易用；
-
-开发者可低成本进行DApp的开发与推广；
-
-普通用户可低门槛参与KroTho上的DApp</td><td rowspan=9 >2020 Q4-2021 Q1</td><td rowspan=3 >公开测试期</td><td>更高交易性能</td></tr>
-<tr style="background:rgba(0,0,0,0)" ><td>更低交易成本</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>元交易补贴</td></tr>
-<tr style="background:rgba(0,0,0,0)"> <td rowspan=3 >节点竞选期</td><td>更去中心化，更安全</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>主流资产完备</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>基础工具初具雏形</td></tr>
-<tr style="background:rgba(0,0,0,0)"> <td rowspan=3 >生态孵化期</td><td>技术服务体系化</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>基础工具定制化</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>资产流转便捷化</td></tr>
-
-<tr style="background:rgba(0,0,0,0)"><td rowspan=5 > 星火  </td><td rowspan=5 > 协议进一步优化，KroTho将肩负联通CeFi与DeFi，
-
-让更多用户低门槛使用DeFi应用的使命  </td> <td rowspan=5 >2021 Q3 </td> <td rowspan=5 > 待公布  </td> <td>开发者工具完备</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>开发者论坛、博客、FAQ信息完备</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>链生态基础设施繁荣</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>创新型Open ID</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>个性化入口精准匹配用户和DApp</td></tr>
-
-<tr style="background:rgba(0,0,0,0)"><td rowspan=3>烈焰</td> <td rowspan=3>拓展性能，同时保留分布式协议的去中心化优势</td><td rowspan=3>2022 Q2</td><td rowspan=3>待公布</td><td>跨链互操作协议</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>跨链互操作集成</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>共识协议升级</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td rowspan=5>燎原</td> <td rowspan=5>更大规模的商业应用与落地，
-
-支撑多种传统业务在链上顺利运行</td> <td rowspan=5>2023 Q1</td> <td rowspan=5>待公布</td><td>多虚拟机支持</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>多种零知识证明和隐私保护能力</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>多种签名方案</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>存储压缩和扩容方案</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>多维度分片方案</td></tr>
-
-</table>
-
-
-
 ## 科图生态链KroTho当前的阶段
-2020年12月，科图生态链KroTho正式启动“火种”阶段，该阶段阶段将专注完善链上基础设施，包括但不限于：预言机、投票工具、锚定币、DEX、借贷、理财、保险、合成资产、跨链解决方案、数据分析、智能合约创新等等
+2021年10月，科图生态链KroTho正式启动“公测”阶段，该阶段阶段将专注完善链上基础设施，包括但不限于：预言机、投票工具、锚定币、DEX、借贷、理财、保险、合成资产、跨链解决方案、数据分析、智能合约创新等等
 
 ## 科图生态链KroTho扶持规划
 ### 资金扶持规划
 - 科图生态链KroTho将设立专项基金，投资、扶持、激励优质开发者
 - 科图生态链KroTho将推出多种开发者活动与大赛，发掘、资助全球潜力开发者
-- 为降低大用户在KroTho Dapp上的参与成本，KroTho元交易功能将对持有HT的用户的Gas fee阶梯式减免
+- 为降低大用户在KroTho Dapp上的参与成本，KroTho 链上交易将尽可能降低KTO持有者交易的费用
+
 ### 流量扶持规划
-HuobiGlobal将大力支持科图生态链KroTho的发展
+科图将大力支持科图生态链KroTho的发展
 - 在站内为对KroTho上的优质Dapp提供流量入口
-- 优质项目在KroTho顺利运行后可向HuobiGlobal提交上币申请，满足上币条件即可登录主站
+- 优质项目在KroTho顺利运行后可向科图提交上币申请，满足上币条件即可登录主站
+
 ### 资源扶持规划
 - 获得投资、扶持的项目或开发者不仅能获得官方报道，还可向官方申请营销服务包，并在全球范围内宣传项目
 - 优质项目可免费参与KroTho全球路演活动

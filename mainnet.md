@@ -2,35 +2,23 @@
 
 ## chainid
 ```
-128
+8285
 ```
 ## rpc
 
 国内访问：
 
 ```
-https://http-mainnet-node.huobichain.com
-wss://ws-mainnet-node.huobichain.com
+https://www.krotho-test.net
+wss://www.krotho-test.net
 ```
 
-社区节点-国内访问：
-```
-https://http-mainnet-node.defibox.com
-```
-
-国外访问：
-```
-https://http-mainnet.KroThochain.com
-wss://ws-mainnet.KroThochain.com
-```
 
 ## 浏览器
 ```
 v1:
-https://KroThoinfo.com
+https://www.kortho.io
 
-v0: 3-5 退出运营
-https://scan.KroThochain.com
 ```
 
 # P2P 节点

@@ -1,4 +1,4 @@
-# HRC20 Token 标准
+# KTO20 Token 标准
 
 KroTho 完全兼容以太坊 [ERC20](https://eips.ethereum.org/EIPS/eip-20) 标准，interface 和 event 如下：
 

@@ -8,18 +8,17 @@
 - `number` `gasUsed` `parentHash` `nonce` `timestamp` `extraData` `gasLimit` `difficulty` 均为创世块的参数
 - `extraData` 设置了初始的验证人群组；
 - `alloc` 配置了初始账户信息，可以用来进行资产预分配和系统合约的预初始化；
-    - 0xdaf88b74fca1246c6144bc846aaa3441ed095191 //创世 HT 锁定地址
+    - 0xdaf88b74fca1246c6144bc846aaa3441ed095191 //创世 KTO 锁定地址
     - 000000000000000000000000000000000000f000 //validators 合约
     - 000000000000000000000000000000000000f001 // punish 合约
     - 000000000000000000000000000000000000f002 // proposal 合约
 
-  系统合约代码仓库：[huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
 
 ## mainnet
 ``` JSON
 {
   "config": {
-    "chainId": 128,
+    "chainId": 8285,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -66,7 +65,7 @@
 ``` JSON
 {
   "config": {
-    "chainId": 256,
+    "chainId": 8285,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",

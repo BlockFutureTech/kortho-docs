@@ -13,7 +13,7 @@ HPoS是PoA和Pos的结合体。想要成为验证人，需要先提交提案，�
 - epoch。以区块为单位的时间间隔，目前`KroTho`上 1epoch = 200block，每个epoch结束的时候，区块链会与系统合约交互，进行活跃验证人更新；
 
 ## 系统合约
-[huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+
 
 目前验证人的管理，均由系统合约完成，目前的系统合约有：
 - Proposal  负责管理验证人的准入资格，管理验证人提案和投票；
@@ -26,7 +26,7 @@ HPoS是PoA和Pos的结合体。想要成为验证人，需要先提交提案，�
 - 每个epoch结束的时候，会调用`Validators`合约，根据排名，更新active validator；
 
 ## 质押
-任何账户，都可以对validator进行任意数量的质押操作，每个validator的最小质押量是`32HT`。
+任何账户，都可以对validator进行任意数量的质押操作，每个validator的最小质押量是`32KTO`。
 如果想取回已质押的HT，需要按照如下操作进行：
 1. 发送调用`Validators`合约，发送针对某一个validator的解质押(unstake)的声明交易;
 2. 等待`86400`个块之后，调用`Validators`合约，发送提取质押(withdrawStaking)的交易，将所有在此validator的质押取回；
