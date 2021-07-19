@@ -8,8 +8,8 @@ Wallet connect 是使得移动 App 钱包通过扫描网页二维码或者Deepli
 
 # Wallet app：
 
-https://github.com/HuobiGroup/walletconnect-test-wallet/commit/787c481032a9c8e4dec324f0a7529fc2775220b8
+https://github.com/korthochain/walletconnect-test-wallet/commit/787c481032a9c8e4dec324f0a7529fc2775220b8
 
 # DApp app：
 
-https://github.com/HuobiGroup/walletconnect-example-dapp/commit/b427419bfb893c060b7693d2e56e6d3f703d2984
+https://github.com/korthochain/walletconnect-example-dapp/commit/b427419bfb893c060b7693d2e56e6d3f703d2984

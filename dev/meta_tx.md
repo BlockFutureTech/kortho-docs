@@ -6,7 +6,7 @@
 
 # Java 版本 Demo
 
-https://github.com/HuobiGroup/metatx-Java-demo
+https://github.com/korthochain/metatx-Java-demo
 
 ## 元交易构造
 - 获取原始的`rawTransaction`信息；

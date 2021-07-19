@@ -13,7 +13,7 @@ Both the mainnet and testnet genesis information of `KroTho` chain have been har
     - 000000000000000000000000000000000000f001 // punish contract address
     - 000000000000000000000000000000000000f002 // proposal contract address
 
-  System contract repo: [huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+  System contract repo: [huobi-eco-contracts](https://github.com/korthochain/huobi-eco-contracts)
 
 ## mainnet
 ``` JSON

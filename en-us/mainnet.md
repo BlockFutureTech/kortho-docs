@@ -28,7 +28,7 @@ https://KroThoinfo.com
 
 allow P2P port（default 32668） udp/tcp
 
-> the following nodes are default config for bootstrap node in code https://github.com/HuobiGroup/huobi-eco-chain/blob/master/params/bootnodes.go
+> the following nodes are default config for bootstrap node in code https://github.com/korthochain/huobi-eco-chain/blob/master/params/bootnodes.go
 
 ```
 enode://7bed18c87054f807bc9096501bc78f737363f357af831791bab07c4fa6c5a1a67cdcf0a097dc2cc918262ef04fb1c05c26026df5c11a6a56666f9b1fb4072210@18.178.30.66:32668

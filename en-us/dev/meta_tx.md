@@ -5,7 +5,7 @@ A meta-transaction is essentially an operation that fulfils a fee payment in pro
 
 # Java Demo 
 
-https://github.com/HuobiGroup/metatx-Java-demo
+https://github.com/korthochain/metatx-Java-demo
 
 ## Build meta transaction
 - Obtain the original `rawTransaction` information.
