@@ -57,11 +57,11 @@ KroTho的使命不仅是一条公链，更加会倾注在优质开发者、早�
 
 
 ## 在社交媒体上与我们互动
-- Facebook：KroTho Chain
-- Twitter：HuobiECOChain
-- Telegram： HuobiECOChain
-- 微博：科图生态链KroTho
-- 公众号：Huobi ECO KroTho
+- Facebook：
+- Twitter：
+- Telegram：
+- 微博：
+- 公众号：
 
 
 ## 风险提示

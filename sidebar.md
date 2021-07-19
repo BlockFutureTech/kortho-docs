@@ -10,15 +10,16 @@
     - [请求与错信息](/dev/json-rpc.md)
     - [合约操作](/dev/contract.md)
     - [私链搭建](/dev/private_chain.md)
-    - [Graph Node](/dev/graphnode.md)
+    <!-- - [Graph Node](/dev/graphnode.md) -->
     - [主网信息介绍](/mainnet.md)
     - [测试网信息介绍](/testnet.md)
-    - [DApp治理](/dev/dapp-gov.md)
-    - [HRC20](/dev/hrc20.md)
+    <!-- - [DApp治理](/dev/dapp-gov.md) -->
+    - [Kto20](/dev/hrc20.md)
     - [WalletConnect](/dev/wallet-connect.md)
-    - [gasprice](/dev/gasprice.md)
+    <!-- - [gasprice](/dev/gasprice.md) -->
     - [交易池问题](/dev/txpool.md)
-    - [挖矿交易加速](/dev/txspeedup.md)
+    <!-- - [挖矿交易加速](/dev/txspeedup.md) -->
+    - [Kto地址生成](/dev/create_address.md)
     - [地址绑定](/dev/bingding_address.md)
 - 公告
     - [公告](/Announcement.md)
