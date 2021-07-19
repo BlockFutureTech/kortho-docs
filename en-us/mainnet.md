@@ -8,14 +8,14 @@
 
 International visit:
 ```
-https://http-mainnet.KroThochain.com
+https://www.krotho-test.net
 wss://ws-mainnet.KroThochain.com
 ```
 
 Visit from China Mainland：
 
 ```
-https://http-mainnet-node.huobichain.com
+https://www.krotho-test.net
 wss://ws-mainnet-node.huobichain.com
 ```
 

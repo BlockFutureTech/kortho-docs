@@ -6,7 +6,7 @@
 ```
 ## rpc
 ```
-https://http-testnet.KroThochain.com
+https://www.krotho-test.net
 wss://ws-testnet.KroThochain.com
 ```
 

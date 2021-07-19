@@ -20,7 +20,7 @@ Compile contract
 Deploy contract to blockchain via wallet such as `MetaMask`.
 1. Set network info in `Metamask`.
 
-![avatar](../../images/metamask2_en.png)
+![avatar](../../images/metamask2.png)
 
 2. Back to `Remix`.
 + Swich environment
@@ -79,11 +79,11 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 module.exports = {
   networks: {
     testnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-testnet.KroThochain.com'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://www.krotho-test.net'),
       network_id: 256
     },
     mainnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-mainnet.KroThochain.com'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://www.krotho-test.net'),
       network_id: 128
     }
   },

@@ -19,7 +19,7 @@ Both the mainnet and testnet genesis information of `KroTho` chain have been har
 ``` JSON
 {
   "config": {
-    "chainId": 128,
+    "chainId": 8285,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -66,7 +66,7 @@ Both the mainnet and testnet genesis information of `KroTho` chain have been har
 ``` JSON
 {
   "config": {
-    "chainId": 256,
+    "chainId": 8285,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",

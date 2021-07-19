@@ -1,6 +1,6 @@
 # Integrity and Compliance
 
-Huobi Group is committed to the highest standards of business conduct in our relationships with each of our stakeholders, including customers, business partners, shareholders and other relevant parties, KroTho Chain has always adhered to the principles of fairness, impartiality and openness in opening up resources to developers. Any support policy has corresponding evaluation criteria, of which open and transparent on-chain data is an important basis for projects to receive support.
+Kortho is committed to the highest standards of business conduct in our relationships with each of our stakeholders, including customers, business partners, shareholders and other relevant parties, KroTho Chain has always adhered to the principles of fairness, impartiality and openness in opening up resources to developers. Any support policy has corresponding evaluation criteria, of which open and transparent on-chain data is an important basis for projects to receive support.
 
 We mandate that our employees conduct all business with outside parties in a manner that reflects our value of integrity. We will not tolerate any form of unethical or unlawful conduct. Our stakeholders’ concerns are important to us and anyone is welcome to contact us at  report@KroThochain.com to report any questionable or allegedly unethical or illegal behavior.
 

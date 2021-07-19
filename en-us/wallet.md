@@ -14,28 +14,16 @@ download url：https://metamask.io/
 
 ```
 chainid: 128
-rpc: https://http-mainnet-node.huobichain.com
-scan: https://KroThoinfo.com
+rpc: https://www.krotho-test.net
+scan: https://www.kortho.io
 ```
 
-![metamask](../images/metamask2_en.png)
+![metamask](../images/metamask2.png)
 
 ## testnet
 
 ```
 chainid: 256
-rpc: https://http-testnet.KroThochain.com
-scan: https://testnet.KroThoinfo.com
+rpc: https://www.krotho-test.net
+scan: https://www.kortho-test.com/
 ```
-
-# huobi wallet app
-
-https://www.huobiwallet.com/
-
-# huobi wallet extension
-
-> to release soon
-
-# cointtype for KroTho
-
-https://github.com/satoshilabs/slips/blob/master/slip-0044.md

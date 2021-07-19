@@ -1,4 +1,4 @@
-# HRC20 Token Standard
+# Kto20 Token Standard
 
 KroTho is fully compatible with [ERC20](https://eips.ethereum.org/EIPS/eip-20) standard，interfaces and events as follows：
 
