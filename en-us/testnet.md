@@ -24,5 +24,5 @@ https://scan-testnet.KroThochain.com
 ## faucet
 
 ```
-https://scan-testnet.KroThochain.com/faucet
+http://www.faucet.kto.dappbox.finance/
 ```

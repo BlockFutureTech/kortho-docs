@@ -18,7 +18,7 @@ https://www.kortho-test.com/
 ```
 
 ## 测试币水龙头
-https://scan-testnet.KroThochain.com/faucet
+http://www.faucet.kto.dappbox.finance/
 
 
 ## P2P节点

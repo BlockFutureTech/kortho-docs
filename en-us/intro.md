@@ -5,7 +5,7 @@
 The KTO Open Platform is a unified infrastructure platform based on the technical, traffic and ecological resources of the KTO Group, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. In December 2020, the first product of the KTO Open Platform, the KroTho Chain, also known as KroTho, officially launched its "Tinder" phase. In addition, KTO Open Platform will launch DEX and other blockchain infrastructures based on Layer 2. The KTO Open Platform will provide global developers with series of diverse innovative facilities and services.
 
 ## Introduction to KroTho Chain
-KroTho Chain (KroTho) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the KTO Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of KroTho is KTO and it adopts the HPoS consensus mechanism. KroTho will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+KroTho Chain (KroTho) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the KTO Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of KroTho is KTO and it adopts the KBFT consensus mechanism. KroTho will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -18,7 +18,7 @@ KroTho's mission is not only a public chain, but also to focus on the discovery 
 - Average block interval: 3s
 
 ## Consensus Mechanism
-HPoS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
+KBFT consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
 
 The maximum number of validators supported is 21.
 
@@ -65,4 +65,4 @@ KTO  will strongly support the development of KroTho ecosystem:
 - All users and developers can participate in the current test environment and subsequent stages of KroTho for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
 - KroTho announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (KroThochain.com), and be cautious with private key phishing.
+- Do not misread the official website (https://www.kortho.org/), and be cautious with private key phishing.

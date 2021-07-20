@@ -26,7 +26,7 @@ KroTho 高度兼容 ethereum，可以使用 ethereum 的 sdk，例如 web3js， 
 # 如何获取测试币？
 官方测试币水龙头地址，可以申请测试网HT。
 
-https://scan-testnet.KroThochain.com/faucet
+http://www.faucet.kto.dappbox.finance/
 
 # 合约部署有什么要注意的吗？
 RPC接口兼容以太坊，可直接使用web3.js，对以太坊开发者完全友好。
@@ -34,7 +34,7 @@ RPC接口兼容以太坊，可直接使用web3.js，对以太坊开发者完全�
 # 区块确认时间是怎么样的？
 3秒一个区块，20个区块确认
 
-# 简单介绍下Hpos共识机制？
+# 简单介绍下KBFT共识机制？
 类似于clique的pos+poa共识机制，支持的最大的Validator数量 21个，具有交易成本低、交易延时低、交易并发高等特点。
 
 # 介绍下元交易功能？
