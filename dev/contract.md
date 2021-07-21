@@ -87,10 +87,6 @@ module.exports = {
     testnet: {
       provider: () => new HDWalletProvider(mnemonic, 'https://www.krotho-test.net'),
       network_id: 8285
-    },
-    mainnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://www.krotho-test.net'),
-      network_id: 8285
     }
   },
 

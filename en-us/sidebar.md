@@ -1,7 +1,6 @@
 - [About KroTho](en-us/intro.md)
 - [Integrity and Compliance](en-us/Integrity.md)
 - [Wallet](en-us/wallet.md)
-- [Consensus](en-us/consensus.md)
 - Developers
     - [Compile and Run](en-us/dev/install.md)
     - [Deployment](en-us/dev/deploy.md)

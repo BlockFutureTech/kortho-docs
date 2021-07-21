@@ -10,22 +10,15 @@
 
 添加自定义网络：
 
-## 主网
-
-```
-chainid: 8285
-rpc: https://www.krotho-test.net
-scan: https://www.kortho.io
-```
-
-![metamask](./images/metamask2.png)
-
-
 ## 测试网
 
 ```
 chainid: 8285
 rpc: https://www.krotho-test.net
-scan: https://www.kortho-test.com/
+scan: https://www.kortho-test.com
 ```
+
+![metamask](./images/metamask2.png)
+
+
 
