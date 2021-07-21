@@ -1,14 +1,6 @@
 # 链上交互
 `KorTho` 兼容所有以太坊生态，支持所有以太坊的`RPC`接口和相关SDK。
 
-## RPC
-[RPC Method List](https://eth.wiki/json-rpc/api)
-
-示例如下:
-```
- curl -s -H 'content-type:application/json' -d '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' http://localhost:8545
-```
-
 ## SDK使用
 可使用`web3j`或`web3js`等以太坊`SDK`进行开发。以`web3js`为例。
 

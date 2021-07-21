@@ -3,7 +3,6 @@
 - [钱包](/wallet.md)
 - 开发者文档
     - [链上交互](/dev/sdk.md)
-    - [请求与错信息](/dev/json-rpc.md)
     - [合约操作](/dev/contract.md)
     - [测试网信息介绍](/testnet.md)
     - [Krc20](/dev/krc20.md)
