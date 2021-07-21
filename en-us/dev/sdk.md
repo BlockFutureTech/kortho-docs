@@ -1,14 +1,6 @@
 # On-chain interaction
 `KorTho` is compatible with `Ethereum`'s ecosystem，support all `Ethereum`'s `RPC` API and DK。
 
-## RPC
-[RPC Method List](https://eth.wiki/json-rpc/api)
-
-Example:
-```
- curl -s -H 'content-type:application/json' -d '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' http://localhost:8545
-```
-
 ## SDK
 Use `Ethereum` SDK library such as `web3j`,`web3js`, etc for development. 
 
