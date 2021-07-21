@@ -2,16 +2,16 @@
 
 
 ## Introduction to the KTO Open Platform
-The KTO Open Platform is a unified infrastructure platform based on the technical, traffic and ecological resources of the KTO Group, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. In December 2020, the first product of the KTO Open Platform, the KorTho Chain, also known as KorTho, officially launched its "Tinder" phase. In addition, KTO Open Platform will launch DEX and other blockchain infrastructures based on Layer 2. The KTO Open Platform will provide global developers with series of diverse innovative facilities and services.
+Kortho open platform is based on the existing technical resources, traffic resources and ecological resources of Kortho Chain public Chain, enabling the comprehensive open unified platform of infrastructure in the blockchain industry. Developers can make use of the technical infrastructure provided by Kortho Chain to build all kinds of dApp applications conveniently, efficiently and quickly, so as to jointly develop and expand the application ecology of Kortho Chain.
 
 ## Introduction to KorTho Chain
-KorTho Chain (KorTho) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the KTO Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of KorTho is KTO and it adopts the KBFT consensus mechanism. KorTho will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+Kortho ecological chain is a decentralized and efficient energy saving public chain, on the basis of supporting high-performance trading, to achieve the compatibility of smart contracts, ecology has been around DEFI, DEFI + consumption, DEFI + games and other tracks derived dozens of DAPP applications. Kortho's native digital asset is KTO.
 
 ## Declaration
 To help developers’ evolvement at every stage 
 
 ## Vision
-KorTho's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, KorTho is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
+Kortho public chain will provide high-quality project technology incubation platform for global developers, with ecological flow, resources, technology to help every developer grow.
 
 ## KorTho’s Performance
 - TPS: 500+
@@ -31,24 +31,18 @@ The endogenous token on the chain is KTO; the transactions consume KTO as gas fe
 
 
 ## Support Plan of KorTho
-### Financial Support
-- KorTho will set up a special fund to invest, support and incentivize high-potential developers.
-- KorTho will launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on KorTho Dapp, the KorTho meta transaction function will reduce the gas fee of users holding KTO in a step-wise manner.
-
-### Traffic Support
-KTO  will strongly support the development of KorTho ecosystem:
-- Provide traffic entrance for high-quality Dapp on KorTho.
-- After running successfully on KorTho, high-quality projects can submit token listing application to KTO Global, and can be listed on KTO Global if they meet the listing standards.
-
-### Resource Support
-- Projects or developers that have received investment and support from KorTho have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
-- High-quality projects can participate in KorTho global roadshows for free.
-- KTO Group will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
+- Kortho will set up a special fund to invest in, support and motivate quality developers
+- Kortho will launch a variety of developer events and competitions to discover and explore potential developers around the world
+- Kortho will improve technical service standards, reduce the public chain trading gas fees, for the majority of developers to provide an advantage in the development environment
+- Kortho ecological chain for excellent dApp applications will give wallet, browser, official website and other traffic entry
+- Kortho ecochain will occasionally come up with KTO tokens to encourage quality developers.
+- Kortho ecological chain will open ecological resources, matching high-quality developers and ecological partners of cooperation and win-win
 
 
 ## Risk Warning
-- All users and developers can participate in the current test environment and subsequent stages of KorTho for free, and there is no charging scenario.
-- All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- KorTho announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (https://www.kortho.org/), and be cautious with private key phishing.
+All users and developers are free to participate in the KOrtho ecosystem test environment and subsequent phases.
+You must distinguish between the test environment and the main network environment, the test environment generated by the assets do not have any value, beware of counterfeit money fraud;
+Please check the Kortho ecological chain official website and social platform news to avoid being induced by malicious false information and resulting in asset loss;
+Be sure to check the official website (https://www.kortho.org/) to avoid phishing your private keys.
+
+

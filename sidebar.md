@@ -1,5 +1,4 @@
 - [About KorTho](/intro.md)
-- [Integrity and Compliance](/Integrity.md)
 - [Wallet](/wallet.md)
 - Developers
     - [On-chain Interaction](/dev/sdk.md)

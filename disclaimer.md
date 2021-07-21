@@ -1,21 +1,17 @@
 # Disclaimer
 
-Dear user (hereinafter referred as "you"):
+Kortho ecochain is a decentralized public chain, developers around the world can deploy smart contracts on Kortho, all users can transfer money and transactions on Kortho. Due to its decentralized nature, we would like to remind you of the following risks with third-party DAPPs:
 
-KorTho Chain （KorTho） (hereinafter referred to as "KorTho" or "we") is a decentralized public chain. Developers around the world can deploy applications on KorTho, and all users can read, send and trade on KorTho. Due to the decentralized nature, we would like to remind you of the risks of third-party DAPPs as follows:
+1. Whether you participate in or use the DAPP on KOrtho through any trading platform or wallet, it is your own free choice and we do not recommend it to you.
 
-1. Whether you participate in or use the DAPP on KorTho through any trading platform, wallet, it is your personal free choice and we do not recommend it to you;
+2. We do not undertake the audit responsibility of any third-party DAPP, nor make any commitment or guarantee for the validity, accuracy, correctness, reliability, quality, stability, integrity and timeliness of the technology and information involved in the service;
 
-2. We are not responsible for the review of any third-party DAPP, nor do we make any promises or guarantees for the validity, accuracy, correctness, reliability, quality, stability, completeness and timeliness of the technology and information involved in its services;
+3. You are solely responsible for all responsibilities arising from the use of third-party DAPP services;
 
-3. You bear all responsibilities arising from the use of third-party DAPP services;
+4. Please make your own judgment and evaluation on whether the third-party DAPP services comply with the laws and regulations or relevant policies of your jurisdiction. We will not provide any evaluation opinions, but please be sure to strictly abide by the laws of your jurisdiction.
 
-4. Whether the third-party DAPP service meets the laws and regulations or relevant policy requirements of your jurisdiction, please make your own judgment and assessment. We do not provide any evaluation opinions, but please be sure to strictly abide by the laws of your jurisdiction;
+5. Any legal issues, contractual liability, economic loss and other issues involving your use of a third-party DAPP, including but not limited to, shall be resolved by you and the third-party DAPP, for which we shall not be liable.
 
-5. Your use of a third-party DAPP, including but not limited to legal issues, contractual liability issues, economic loss issues, etc., will be resolved by you and the third-party DAPP, and we are not responsible for this;
+6. Kortho will not share your personal information with any third party DAPP without your express consent. After obtaining your express consent, you shall be solely responsible for all legal liabilities and disputes arising from the acquisition of your personal information by a third party DAPP and shall solve them with the third party DAPP.
 
-6. KorTho will not share your personal information with any third-party DAPP unless you have your explicit consent. After obtaining your explicit consent, all legal responsibilities and disputes arising from the third-party DAPP obtaining your personal information shall still be borne by you and resolved with the third-party DAPP;
-
-7. KorTho has no right to provide you with any third-party DAPP developer's personal information, unless obtaining the other party's consent or the request of the relevant department, we will try our best to assist but cannot guarantee that we can effectively obtain the other party's information in a timely manner.
-
-Finally, we remind you again: we do not recommend, suggest, or guide you to use any third-party DAPP services.
+7. Kortho is not authorized to provide you with the personal information of any third party DApp developer, unless requested by the same or related department of Kortho, we will try our best to assist but cannot guarantee that we will be able to obtain such information effectively and in a timely manner
