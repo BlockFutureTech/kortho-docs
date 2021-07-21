@@ -1,12 +1,13 @@
-- [关于KorTho](/intro.md)
-- [廉正举报](/Integrity.md)
-- [钱包](/wallet.md)
-- 开发者文档
-    - [链上交互](/dev/sdk.md)
-    - [合约操作](/dev/contract.md)
-    - [测试网信息介绍](/testnet.md)
-    - [Krc20](/dev/krc20.md)
-    - [Kto地址生成](/dev/create_address.md)
-    - [地址绑定](/dev/bingding_address.md)
-- 免责声明
-    - [免责声明](/disclaimer.md)
+- [About KorTho](en-us/intro.md)
+- [Integrity and Compliance](en-us/Integrity.md)
+- [Wallet](en-us/wallet.md)
+- Developers
+    - [On-chain Interaction](en-us/dev/sdk.md)
+    - [Contract](en-us/dev/contract.md)
+    - [Testnet](en-us/testnet.md)
+    - [Krc20](en-us/dev/krc20.md)
+    - [CreateAddress](en-us/dev/create_address.md)
+    - [BindingAddress](en-us/dev/bingding_address.md)
+- Disclaimer
+    - [Disclaimer](en-us/disclaimer.md)
+    

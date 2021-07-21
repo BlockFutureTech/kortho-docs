@@ -18,7 +18,7 @@ rpc: https://www.krotho-test.net
 scan: https://www.kortho.io
 ```
 
-![metamask](../images/metamask2.png)
+![metamask](../images/metamask2_en.png)
 
 ## testnet
 
