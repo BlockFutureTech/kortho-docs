@@ -46,8 +46,8 @@ https://github.com/korthochain/metatx-Java-demo
 ### API
 
 ```
-https://meta-mainnet.KroThochain.com [主网]
-https://meta-testnet.KroThochain.com [测试网]
+https://meta-mainnet.KorThochain.com [主网]
+https://meta-testnet.KorThochain.com [测试网]
 ```
 
 - 计算补贴费率

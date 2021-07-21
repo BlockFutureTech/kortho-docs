@@ -1,4 +1,4 @@
-- [关于KroTho](/intro.md)
+- [关于KorTho](/intro.md)
 - [廉正举报](/Integrity.md)
 - [钱包](/wallet.md)
 - 开发者文档
@@ -6,7 +6,7 @@
     - [请求与错信息](/dev/json-rpc.md)
     - [合约操作](/dev/contract.md)
     - [测试网信息介绍](/testnet.md)
-    - [Kto20](/dev/hrc20.md)
+    - [Krc20](/dev/krc20.md)
     - [Kto地址生成](/dev/create_address.md)
     - [地址绑定](/dev/bingding_address.md)
 - 免责声明

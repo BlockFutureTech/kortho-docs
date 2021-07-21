@@ -3,7 +3,7 @@
 3 levels: slow, medium, fast；
 
 ```
-curl https://tc.KroThochain.com/price/prediction
+curl https://tc.KorThochain.com/price/prediction
 ```
 
 

@@ -13,7 +13,7 @@ We recommend following the [Official documentation](https://thegraph.com/docs/) 
 
 For convenience reasons, we use the official [docker compose](https://github.com/graphprotocol/graph-node/tree/master/docker) for node, database, and IPFS deployment.
 
-Note that the value of the `ethereum` field in `docker-compose.yml` is replaced with `KroTho`'s node connection information.
+Note that the value of the `ethereum` field in `docker-compose.yml` is replaced with `KorTho`'s node connection information.
 
 ``` YAML
 graph-node:
@@ -33,7 +33,7 @@ graph-node:
       postgres_pass: let-me-in
       postgres_db: graph-node
       ipfs: 'ipfs:5001'
-      ethereum: 'mainnet:http://127.0.0.1:8545'  #replaced with KroTho rpc info
+      ethereum: 'mainnet:http://127.0.0.1:8545'  #replaced with KorTho rpc info
       RUST_LOG: info
  ```
  > Note: The node connected to graph-node needs to be in `archive` mode (add flag --syncmode full --gcmode archive when starting the node), we recommend each user to build their own RPC node.

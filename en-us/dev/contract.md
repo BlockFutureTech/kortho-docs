@@ -1,5 +1,5 @@
 # Contract
-`KroTho` use `EVM` for contract execution.See [Solidity](https://docs.soliditylang.org/en/v0.7.1/#) for detail.
+`KorTho` use `EVM` for contract execution.See [Solidity](https://docs.soliditylang.org/en/v0.7.1/#) for detail.
 
 ## Remix
 

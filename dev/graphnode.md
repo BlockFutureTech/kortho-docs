@@ -12,7 +12,7 @@
 ### 搭建graph-node
 
 出于便捷的考虑，我们使用官方提供的[docker compose](https://github.com/graphprotocol/graph-node/tree/master/docker)来进行节点、数据库、IPFS的部署。
-注意将`docker-compose.yml`中 `ethereum` 字段的值改为`KroTho`的节点连接信息。
+注意将`docker-compose.yml`中 `ethereum` 字段的值改为`KorTho`的节点连接信息。
 ``` YAML
 graph-node:
     image: graphprotocol/graph-node

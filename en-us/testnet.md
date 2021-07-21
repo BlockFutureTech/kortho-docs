@@ -7,7 +7,7 @@
 ## rpc
 ```
 https://www.krotho-test.net
-wss://ws-testnet.KroThochain.com
+wss://ws-testnet.KorThochain.com
 ```
 
 Visit from China Mainland：
@@ -18,7 +18,7 @@ wss://ws-testnet.huobichain.com
 
 ## explorer
 ```
-https://scan-testnet.KroThochain.com
+https://scan-testnet.KorThochain.com
 ```
 
 ## faucet

@@ -48,7 +48,7 @@ CacheDir = "ethash"
 CachesInMem = 2
 CachesOnDisk = 3
 CachesLockMmap = false
-DatasetDir = "/data/KroTho/data/.ethash"
+DatasetDir = "/data/KorTho/data/.ethash"
 DatasetsInMem = 1
 DatasetsOnDisk = 2
 DatasetsLockMmap = false
@@ -68,7 +68,7 @@ GlobalQueue = 1024
 Lifetime = 10800000000000
 
 [Node]
-DataDir = "/data/KroTho/data"
+DataDir = "/data/KorTho/data"
 InsecureUnlockAllowed = true
 NoUSB = true
 IPCPath = "geth.ipc"
@@ -117,10 +117,10 @@ SyncMode = "full"
 
 ```
 #!/usr/bin/env bash
-/data/KroTho/geth-linux-amd64 \
---config /data/KroTho/config.toml  \
---logpath /data/KroTho/logs \
---verbosity 3  >> /data/KroTho/logs/systemd_chain_console.out 2>&1
+/data/KorTho/geth-linux-amd64 \
+--config /data/KorTho/config.toml  \
+--logpath /data/KorTho/logs \
+--verbosity 3  >> /data/KorTho/logs/systemd_chain_console.out 2>&1
 ```
 
 if you need to use it as archive node, add：
@@ -134,15 +134,15 @@ so：
 
 ```
 #!/usr/bin/env bash
-/data/KroTho/geth-linux-amd64 \
---config /data/KroTho/config.toml  \
---logpath /data/KroTho/logs \
+/data/KorTho/geth-linux-amd64 \
+--config /data/KorTho/config.toml  \
+--logpath /data/KorTho/logs \
 --syncmode full \
 --gcmode archive \
---verbosity 3  >> /data/KroTho/logs/systemd_chain_console.out 2>&1
+--verbosity 3  >> /data/KorTho/logs/systemd_chain_console.out 2>&1
 ```
 
-If no any network flags were provided, the node will connect the KroTho-mainnet by default. If you want to connect to KroTho-testnet, add:
+If no any network flags were provided, the node will connect the KorTho-mainnet by default. If you want to connect to KorTho-testnet, add:
 
 ```
 --testnet
@@ -156,7 +156,7 @@ Description=huobi smart chain service
 
 [Service]
 Type=simple
-ExecStart=/bin/sh /data/KroTho/run.sh
+ExecStart=/bin/sh /data/KorTho/run.sh
 
 Restart=on-failure
 RestartSec=5s

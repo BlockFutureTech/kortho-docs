@@ -9,7 +9,7 @@
 International visit:
 ```
 https://www.krotho-test.net
-wss://ws-mainnet.KroThochain.com
+wss://ws-mainnet.KorThochain.com
 ```
 
 Visit from China Mainland：
@@ -21,7 +21,7 @@ wss://ws-mainnet-node.huobichain.com
 
 ## explorer
 ```
-https://KroThoinfo.com
+https://KorThoinfo.com
 ```
 
 # P2P Nodes

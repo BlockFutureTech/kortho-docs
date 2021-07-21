@@ -1,5 +1,5 @@
 # Genesis file
-Both the mainnet and testnet genesis information of `KroTho` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
+Both the mainnet and testnet genesis information of `KorTho` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
 
 ## Glossary 
 - chainId The unique identification of the chain.

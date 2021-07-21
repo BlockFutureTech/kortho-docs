@@ -1,4 +1,4 @@
-Welcome KroTho Chain Docs Site。
+Welcome KorTho Chain Docs Site。
 
 Resources list：
 

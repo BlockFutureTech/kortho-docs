@@ -1,6 +1,6 @@
 # Summary
 
-KroTho support metamask、huobi wallet app、huobi wallet extension
+KorTho support metamask、huobi wallet app、huobi wallet extension
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
