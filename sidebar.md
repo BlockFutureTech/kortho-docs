@@ -1,13 +1,13 @@
-- [About KorTho](en-us/intro.md)
-- [Integrity and Compliance](en-us/Integrity.md)
-- [Wallet](en-us/wallet.md)
+- [About KorTho](/intro.md)
+- [Integrity and Compliance](/Integrity.md)
+- [Wallet](/wallet.md)
 - Developers
-    - [On-chain Interaction](en-us/dev/sdk.md)
-    - [Contract](en-us/dev/contract.md)
-    - [Testnet](en-us/testnet.md)
-    - [Krc20](en-us/dev/krc20.md)
-    - [CreateAddress](en-us/dev/create_address.md)
-    - [BindingAddress](en-us/dev/bingding_address.md)
+    - [On-chain Interaction](/dev/sdk.md)
+    - [Contract](/dev/contract.md)
+    - [Testnet](/testnet.md)
+    - [Krc20](/dev/krc20.md)
+    - [CreateAddress](/dev/create_address.md)
+    - [BindingAddress](/dev/bingding_address.md)
 - Disclaimer
-    - [Disclaimer](en-us/disclaimer.md)
+    - [Disclaimer](/disclaimer.md)
     

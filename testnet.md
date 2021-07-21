@@ -1,22 +1,28 @@
-# 测试网信息
+# Testnet Info
 
 ## chainid
 ```
-8285
+256
 ```
 ## rpc
 ```
 https://www.krotho-test.net
-wss://www.krotho-test.net
+wss://ws-testnet.KorThochain.com
 ```
 
-
-
-## 浏览器
+Visit from China Mainland：
 ```
-https://www.kortho-test.com/
+https://http-testnet.huobichain.com 
+wss://ws-testnet.huobichain.com
 ```
 
-## 测试币水龙头
+## explorer
+```
+https://scan-testnet.KorThochain.com
+```
+
+## faucet
+
+```
 http://www.faucet.kto.dappbox.finance/
-
+```

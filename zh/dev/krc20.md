@@ -1,6 +1,6 @@
-# Krc20 Token Standard
+# Krc20 Token 标准
 
-KorTho is fully compatible with [ERC20](https://eips.ethereum.org/EIPS/eip-20) standard，interfaces and events as follows：
+KorTho 完全兼容以太坊 [ERC20](https://eips.ethereum.org/EIPS/eip-20) 标准，interface 和 event 如下：
 
 ```
 // ----------------------------------------------------------------------------
@@ -20,17 +20,16 @@ contract ERC20Interface {
 }
 ```
 
-EIP reference：
+标准请参考：
 
 [eip-20](https://eips.ethereum.org/EIPS/eip-20)
 
-Implemetation reference：
+实现请参考：
 
 [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20)
 
 
 # Test KRC20
-
 | symbol | address                                    | decimals |
 | ------ | ------------------------------------------ | -------- |
 | KTO    | 0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB | 18       |
@@ -43,3 +42,4 @@ Implemetation reference：
 | FIL    | 0x665FdB8D6A39912Dce976CaD90D97ae7fa4774db | 18       |
 | UNI    | 0x1464BCeb3c4d4Ed8607A0997016AE65EE92F714b | 18       |
 | DAI    | 0x1AE948EB906fF65F44991Bdc6D35670246B8f964 | 18       |
+

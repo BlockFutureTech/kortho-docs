@@ -1,24 +1,29 @@
-# 概况
+# Summary
 
-支持 metamask 浏览器插件
+KorTho support metamask、huobi wallet app、huobi wallet extension
 
-> 注意：提现到钱包之前，请检查兼容性，已知 Ledger 暂未支持
+> NOTE: Check compitibility before using wallet, Ledger is not supported.
 
 # metamask
 
-下载地址：https://metamask.io/
+add custom network：
 
-添加自定义网络：
+## mainnet
 
-## 测试网
+download url：https://metamask.io/
 
 ```
-chainid: 8285
+chainid: 128
 rpc: https://www.krotho-test.net
-scan: https://www.kortho-test.com
+scan: https://www.kortho.io
 ```
 
-![metamask](./images/metamask2_en.png)
+![metamask](../images/metamask2_en.png)
 
+## testnet
 
-
+```
+chainid: 256
+rpc: https://www.krotho-test.net
+scan: https://www.kortho-test.com/
+```
