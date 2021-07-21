@@ -1,6 +1,6 @@
 - [Homepage](https://www.KorThochain.com/)
-- Translations
+<!-- - Translations
   - [:uk: English](/)
-  - [:cn: 中文](/zh/intro)
+  - [:cn: 中文](/zh/intro) -->
 
 
