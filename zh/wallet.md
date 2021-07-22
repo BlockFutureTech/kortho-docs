@@ -18,7 +18,7 @@ rpc: https://www.krotho-test.net
 scan: https://www.kortho-test.com
 ```
 
-![metamask](./images/metamask2_en.png)
+![metamask](../images/metamask2_en.png)
 
 
 

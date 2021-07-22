@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>KorTho Chain</title>
@@ -8,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="./css/vue.css">
 </head>
+
 <body>
   <div id="app"></div>
   <script>
@@ -26,18 +28,18 @@
       },
       themeColor: '#47b1de',
       pagination: {
-        previousText: '上一章节',
-        nextText: '下一章节',
+        previousText: 'PreviousText',
+        nextText: 'NextText',
       },
       tabs: {
-        persist    : true,      // default
-        sync       : true,      // default
-        theme      : 'classic', // default
+        persist: true,      // default
+        sync: true,      // default
+        theme: 'classic', // default
         tabComments: true,      // default
         tabHeadings: true       // default
       },
       remoteMarkdown: {
-        tag: 'remoteMarkdownUrl', 
+        tag: 'remoteMarkdownUrl',
       }
     }
   </script>
@@ -67,7 +69,7 @@
         }
       }
     };
-    (function() {
+    (function () {
       var bw = document.createElement('script');
       bw.src = 'https://open.woodpeckerlog.com/static/woodpecker.js';
       bw.async = true;
@@ -76,4 +78,5 @@
     })();
   </script>
 </body>
+
 </html>

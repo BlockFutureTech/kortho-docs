@@ -52,4 +52,4 @@ graph-node:
 ### GraphQL使用
 
 部署完成后，就可以使用`GraphQL`来请求数据了
-![avatar](../images/graphnode.jpg)
+![avatar](../../images/graphnode.jpg)

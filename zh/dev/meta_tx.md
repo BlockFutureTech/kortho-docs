@@ -1,7 +1,7 @@
 # 元交易
 元交易功能本质上是实现手续费代付的操作。`Address1` 将要发送的交易交给`Address2`， `Address2` 将费用扣除相关的信息进行签名，放置在交易的`data`数据段内广播发送，区块链根据规则对交易进行处理。
 
-![avatar](../images/metatx.jpg)
+![avatar](../../images/metatx.jpg)
 
 
 # Java 版本 Demo
@@ -38,7 +38,7 @@ https://github.com/korthochain/metatx-Java-demo
 
 交易生效有效期是 1 天（28800 区块）；
 
-![avatar](../images/grade-cn.png)
+![avatar](../../images/grade-cn.png)
 
 > 对单账户，每天最多补贴 5 笔
 

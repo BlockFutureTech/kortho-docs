@@ -4,7 +4,7 @@
 ## 一、发送绑定请求
     1、使用postman发送POST请求到 http://118.193.37.36:2926/BindingAddress ：
 
-![](../images/switchrpc/s5.png)
+![](../../images/switchrpc/s5.png)
     
     2、使用curl命令发送：
     curl -i -X POST -H "'Content-type':'application/json'" -d '{"ethAddress":"0x76cb9973a1C63b77539b9576a884b35aF42e4740","ktoAddress":"KtoFFxtaSbbqEBNSoPLEDdjZjV5CtQY5fRtvAr9bD5vyaM3","privacy":"3p7xacGL3yeo65bguWQ8417cBfGbFozwRU5PdH1tLKQS8LnxSicFWu1mmmh1H6avzW5GrgDGzFuUSr9VF1vTVoU9"}' http://118.193.37.36:2926/BindingAddress
@@ -20,7 +20,7 @@
 ## 二、查询绑定
     1、使用postman发送GET请求到 http://118.193.37.36:2926/GetEthAddrByKtoAddr ：
 
-![](../images/switchrpc/s6.png)
+![](../../images/switchrpc/s6.png)
 
     2、curl命令：
     curl http://118.193.37.36:2926/GetEthAddrByKtoAddr?ktoAddress=KtoFFxtaSbbqEBNSoPLEDdjZjV5CtQY5fRtvAr9bD5vyaM3

@@ -4,10 +4,10 @@
 ## Remix
 
 [Remix IDE](https://remix.ethereum.org) is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is used for the entire journey of contract development as well as being a playground for learning and teaching contract development.
-![avatar](../../images/remix1.jpg)
+![avatar](../images/remix1.jpg)
 
 Create new file in file explorer. Edit contract info at right side.
-![avatar](../../images/remix2.jpg)
+![avatar](../images/remix2.jpg)
 
 Compile contract
 1. Click compiler button, switch UI
@@ -15,19 +15,19 @@ Compile contract
 3. Set compile flags
 4. Clieck compile button
 
-![avatar](../../images/remix3.jpg)
+![avatar](../images/remix3.jpg)
 
 Deploy contract to blockchain via wallet such as `MetaMask`.
 1. Set network info in `Metamask`.
 
-![avatar](../../images/metamask2_en.png)
+![avatar](../images/metamask2_en.png)
 
-2. Back to `Remix`.
+1. Back to `Remix`.
 + Swich environment
 + Select contract
 + click deploy button
 
-![avatar](../../images/remix4.jpg)
+![avatar](../images/remix4.jpg)
 
 通过`MetaMask`即可将合约部署上链了
 

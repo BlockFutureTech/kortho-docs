@@ -5,11 +5,11 @@
 ## 使用Remix部署合约
 [Remix](https://remix.ethereum.org)是在线的合约开发和部署工具。首先打开`Remix`页面
 
-![avatar](../images/remix1.jpg)
+![avatar](../../images/remix1.jpg)
 
 左侧文件浏览器内，新建文件，比如`Example.sol`，在右侧编辑合约内容。
 
-![avatar](../images/remix2.jpg)
+![avatar](../../images/remix2.jpg)
 
 编译合约
 1. 点击左侧按钮，切换到编译界面；
@@ -17,20 +17,20 @@
 3. 设置相关的编译选项；
 4. 点击编译按钮进行编译；
 
-![avatar](../images/remix3.jpg)
+![avatar](../../images/remix3.jpg)
 
 接下来要将编译后的合约部署到链上，这里需要借助浏览器钱包插件。以`MetaMask`为例。
 
 1. 设置网络信息，设置完成后保存。
 
-![avatar](../images/metamask2_en.png)
+![avatar](../../images/metamask2_en.png)
 
 2. 返回到`Remix`界面
 + 切换环境
 + 选择对应合约
 + 点击部署按钮
 
-![avatar](../images/remix4.jpg)
+![avatar](../../images/remix4.jpg)
 
 通过`MetaMask`即可将合约部署上链了
 
