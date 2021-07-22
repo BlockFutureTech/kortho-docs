@@ -2,23 +2,19 @@
 
 ## chainid
 ```
-256
+8285
 ```
 ## rpc
 ```
 https://www.krotho-test.net
-wss://ws-testnet.KorThochain.com
+wss://www.krotho-test.net
 ```
 
-Visit from China Mainland：
-```
-https://http-testnet.huobichain.com 
-wss://ws-testnet.huobichain.com
-```
+
 
 ## explorer
 ```
-https://scan-testnet.KorThochain.com
+https://www.kortho-test.com/
 ```
 
 ## faucet

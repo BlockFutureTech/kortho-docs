@@ -11,7 +11,7 @@ $ npm install kto-utils
 ```
 ```JavaScript
 var KtoUtils=require("kto-utils");
-let res=ktoUtils.keyPair();
+let res=KtoUtils.keyPair();
 console.log('To generate address',res)
 //--------
 To generate address {

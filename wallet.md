@@ -1,6 +1,6 @@
 # Summary
 
-KorTho support metamask、huobi wallet app、huobi wallet extension
+KorTho support metamask
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
@@ -8,22 +8,15 @@ KorTho support metamask、huobi wallet app、huobi wallet extension
 
 add custom network：
 
-## mainnet
+## testnet
 
 download url：https://metamask.io/
 
 ```
-chainid: 128
+chainid: 8285
 rpc: https://www.krotho-test.net
 scan: https://www.kortho.io
 ```
 
 ![metamask](../images/metamask2_en.png)
 
-## testnet
-
-```
-chainid: 256
-rpc: https://www.krotho-test.net
-scan: https://www.kortho-test.com/
-```

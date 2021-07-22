@@ -2,7 +2,7 @@
 
 
 ## Introduction to the KTO Open Platform
-Kortho open platform is based on the existing technical resources, traffic resources and ecological resources of Kortho Chain public Chain, enabling the comprehensive open unified platform of infrastructure in the blockchain industry. Developers can make use of the technical infrastructure provided by Kortho Chain to build all kinds of dApp applications conveniently, efficiently and quickly, so as to jointly develop and expand the application ecology of Kortho Chain.
+Kortho open platform is based on the existing technical resources, traffic resources and ecological resources of Kortho Chain public Chain, enabling the comprehensive open unified platform of infrastructure in the blockchain industry. Developers can make use of the technical infrastructure provided by Kortho Chain to build all kinds of DApp applications conveniently, efficiently and quickly, so as to jointly develop and expand the application ecology of Kortho Chain.
 
 ## Introduction to KorTho Chain
 Kortho ecological chain is a decentralized and efficient energy saving public chain, on the basis of supporting high-performance trading, to achieve the compatibility of smart contracts, ecology has been around DEFI, DEFI + consumption, DEFI + games and other tracks derived dozens of DAPP applications. Kortho's native digital asset is KTO.
@@ -34,7 +34,7 @@ The endogenous token on the chain is KTO; the transactions consume KTO as gas fe
 - Kortho will set up a special fund to invest in, support and motivate quality developers
 - Kortho will launch a variety of developer events and competitions to discover and explore potential developers around the world
 - Kortho will improve technical service standards, reduce the public chain trading gas fees, for the majority of developers to provide an advantage in the development environment
-- Kortho ecological chain for excellent dApp applications will give wallet, browser, official website and other traffic entry
+- Kortho ecological chain for excellent DApp applications will give wallet, browser, official website and other traffic entry
 - Kortho ecochain will occasionally come up with KTO tokens to encourage quality developers.
 - Kortho ecological chain will open ecological resources, matching high-quality developers and ecological partners of cooperation and win-win
 
