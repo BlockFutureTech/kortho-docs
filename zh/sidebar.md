@@ -3,7 +3,8 @@
 - 开发者文档
     - [链上交互](/zh/dev/sdk.md)
     - [合约操作](/zh/dev/contract.md)
-    - [测试网信息介绍](/zh/testnet.md)
+    - [主网信息](/zh/mainnet.md)
+    - [测试网信息](/zh/testnet.md)
     - [Krc20](/zh/dev/krc20.md)
     - [Kto地址生成](/zh/dev/create_address.md)
     - [地址绑定](/zh/dev/bingding_address.md)

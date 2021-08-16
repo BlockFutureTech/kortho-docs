@@ -3,6 +3,7 @@
 - Developers
     - [On-chain Interaction](/dev/sdk.md)
     - [Contract](/dev/contract.md)
+    - [Mainnet](/mainnet.md)
     - [Testnet](/testnet.md)
     - [Krc20](/dev/krc20.md)
     - [CreateAddress](/dev/create_address.md)
