@@ -29,7 +29,7 @@ Deploy contract to blockchain via wallet such as `MetaMask`.
 
 ![avatar](../images/remix4.jpg)
 
-通过`MetaMask`即可将合约部署上链了
+The contract can be deployed up the chain via `MetaMask`
 
 
 ## Truffle

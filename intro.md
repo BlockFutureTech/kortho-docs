@@ -1,48 +1,63 @@
-# KorTho Chain – KorTho
+# KorTho data confirmation base chain
 
 
-## Introduction to the KTO Open Platform
-Kortho open platform is based on the existing technical resources, traffic resources and ecological resources of Kortho Chain public Chain, enabling the comprehensive open unified platform of infrastructure in the blockchain industry. Developers can make use of the technical infrastructure provided by Kortho Chain to build all kinds of DApp applications conveniently, efficiently and quickly, so as to jointly develop and expand the application ecology of Kortho Chain.
+## Introduction to KeTu Open Platform
+KeTu Open platform is an infrastructure that is gradually open to the blockchain industry based on the technical resources, flow resources and ecological resources of KeTu Laboratory. The goal is to make decentralized applications more efficient and cheaper to build. Koto Open Platform will provide more diversified basic services and innovative services for global developers.
 
-## Introduction to KorTho Chain
-Kortho ecological chain is a decentralized and efficient energy saving public chain, on the basis of supporting high-performance trading, to achieve the compatibility of smart contracts, ecology has been around DEFI, DEFI + consumption, DEFI + games and other tracks derived dozens of DAPP applications. Kortho's native digital asset is KTO.
+## Introduction to KorTho basic chain of Koto
+ KeTu foundation chain is committed to creating an equality. Mutual trust. Universal benefits. Efficient decentralized data right confirmation bottom public chain. Keto chain consists of P2P network, ED25519 signature algorithm, SECP256K1 elliptic curve algorithm, SHA-3 encryption algorithm and BADGER persistent K-V storage database cryptography technology.
+
+Ketu basic chain technology through PPOS (POW➕POS) consensus algorithm mechanism, can enable global users to easily participate in data confirmation bookkeeping, and obtain the benefits of data bookkeeping.
+
+Specific smart contracts of Koto basic chain will interweave and interact with ethereum EVM smart contracts and smart contracts of various public chains to realize cross-chain technology and bring users a more efficient, friendly and smooth interactive experience. At the same time, technology developers around the world can develop various applications such as issuing KRC-20 tokens in KeTu base chain more friendly. NFT. DeFi. Games and meta-universes.
 
 ## Declaration
-To help developers’ evolvement at every stage 
+Help developers at every stage of their growth. 
 
 ## Vision
-Kortho public chain will provide high-quality project technology incubation platform for global developers, with ecological flow, resources, technology to help every developer grow.
+To build the global blockchain data hub center and realize the super cross-chain underlying system of interconnection.
 
 ## KorTho’s Performance
-- TPS: 500+
-- Average block interval: 3s
+- TPS：5000+
+- Average block interval: 10s
 
 ## Consensus Mechanism
-Using Byzantine consensus mechanism, it has fast transaction speed, low latency, high concurrency, and supports a maximum of 19 verification nodes.
+PPOS (POW➕POS) consensus mechanism.sm.
 
 ## Economic Model 
-The endogenous token on the chain is KTO; the transactions consume KTO as gas fee.
+- For 10S of data, one block is produced, and 1.6778 KTO is produced in one block, and 10%KTO is produced in one block every year.
+- Data node pledge KTO reduces the calculation difficulty and increases the number of blocks produced. The pledge period of data nodes is 120 days, and the linear release period is 120 days.
+- 30% of THE KTO stimulated by block generation of data nodes will be released on the same day, and the remaining 70% will be released linearly in 120 days.
 
 
 ## KorTho Technical Characteristics
-- An open and decentralized network to maintain the security of the network and assets.
-- Support proof protocol, optimize peer-to-peer trading function.
-- Support the programmability of EVM, the compatibility of smart contracts to reduce development or migration costs.
+- Open and decentralized networks to maintain network and asset security;
+- Support proof protocol, optimize peer-to-peer transaction function.
+- Support EVM programmability, smart contract compatibility, reduce development or migration costs;
 
 
-## Support Plan of KorTho
-- Kortho will set up a special fund to invest in, support and motivate quality developers
-- Kortho will launch a variety of developer events and competitions to discover and explore potential developers around the world
-- Kortho will improve technical service standards, reduce the public chain trading gas fees, for the majority of developers to provide an advantage in the development environment
-- Kortho ecological chain for excellent DApp applications will give wallet, browser, official website and other traffic entry
-- Kortho ecochain will occasionally come up with KTO tokens to encourage quality developers.
-- Kortho ecological chain will open ecological resources, matching high-quality developers and ecological partners of cooperation and win-win
+## Koto base chain KorTho current stage
+In October 2021, KorTho will officially launch the new consensus mechanism phase of "public beta" PPOS(PoW➕POS), which will focus on improving the on-chain infrastructure, including but not limited to: Prophets, voting tools, anchor coins, DEX, lending, wealth management, insurance, synthetic assets, cross-chain solutions, data analytics, smart contract innovation, and more.
 
+## Koto Foundation Chain KorTho Support program
+### Fund support plan
+- KorTho will set up a special fund to invest, support and encourage quality developers
+- KorTho will launch a variety of developer activities and competitions to identify and fund potential developers around the world
+- In order to reduce the participation costs of large users on KorTho Dapp, KorTho on-chain transactions will minimize the transaction fees of KTO holders
 
-## Risk Warning
-All users and developers are free to participate in the KOrtho ecosystem test environment and subsequent phases.
-You must distinguish between the test environment and the main network environment, the test environment generated by the assets do not have any value, beware of counterfeit money fraud;
-Please check the Kortho ecological chain official website and social platform news to avoid being induced by malicious false information and resulting in asset loss;
-Be sure to check the official website (https://www.kortho.org/) to avoid phishing your private keys.
+### Flow support planning
+Koto LABS will support the development of KorTho, the koto base chain
+- Provide in-station traffic entry for premium DApps on KorTho
+
+### Resource support planning
+- Funded projects or developers can not only get official coverage, but also apply to official marketing service packages and promote their projects worldwide
+- Quality projects can participate in KorTho global roadshow activities free of charge
+- Ketu Lab will open technological ecological resources and match high-quality developers with ecological partners for win-win cooperation
+
+## Risk alert
+- All users and developers can participate in the test environment and subsequent stages of KorTho for free. There is no charging scenario
+- You must distinguish between the test environment and the main network environment. The assets generated by the test environment do not have any value. Beware of counterfeit currency fraud
+- KorTho basic chain will announce authorization, promotion and other cooperation through the official social platform. Developers and users should check carefully to avoid losses
+- Check the official website (https://www.kortho.org/) to avoid phishing of the private key.
 
 

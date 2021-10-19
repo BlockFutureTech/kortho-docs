@@ -6,8 +6,10 @@
     - [Mainnet](/mainnet.md)
     - [Testnet](/testnet.md)
     - [Krc20](/dev/krc20.md)
-    - [CreateAddress](/dev/create_address.md)
-    - [BindingAddress](/dev/bingding_address.md)
+    - [Kto10CreateAddress](/dev/create_address10.md)
+    - [Kto20CreateAddress](/dev/create_address20.md)
+    - [Kto10BindingAddress](/dev/bingding_address10.md)
+    - [MillInformation](/dev/mill_information.md)
 - Disclaimer
     - [Disclaimer](/disclaimer.md)
     
