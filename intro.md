@@ -4,10 +4,10 @@
 ## Introduction to KeTu Open Platform
 KeTu Open platform is an infrastructure that is gradually open to the blockchain industry based on the technical resources, flow resources and ecological resources of KeTu Laboratory. The goal is to make decentralized applications more efficient and cheaper to build. Koto Open Platform will provide more diversified basic services and innovative services for global developers.
 
-## Introduction to KorTho basic chain of Koto
+## Introduction to KorTho basic chain of KeTu
  KeTu foundation chain is committed to creating an equality. Mutual trust. Universal benefits. Efficient decentralized data right confirmation bottom public chain. Keto chain consists of P2P network, ED25519 signature algorithm, SECP256K1 elliptic curve algorithm, SHA-3 encryption algorithm and BADGER persistent K-V storage database cryptography technology.
 
-Ketu basic chain technology through PPOS (POW➕POS) consensus algorithm mechanism, can enable global users to easily participate in data confirmation bookkeeping, and obtain the benefits of data bookkeeping.
+KeTu basic chain technology through PPOS (POW➕POS) consensus algorithm mechanism, can enable global users to easily participate in data confirmation bookkeeping, and obtain the benefits of data bookkeeping.
 
 Specific smart contracts of Koto basic chain will interweave and interact with ethereum EVM smart contracts and smart contracts of various public chains to realize cross-chain technology and bring users a more efficient, friendly and smooth interactive experience. At the same time, technology developers around the world can develop various applications such as issuing KRC-20 tokens in KeTu base chain more friendly. NFT. DeFi. Games and meta-universes.
 
