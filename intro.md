@@ -1,10 +1,10 @@
-# KorTho data confirmation base chain
+# KorTho-the base chain for data rights
 
 
-## Introduction to KeTu Open Platform
+## Introduction to KTO Open Platform
 Kortho Open Platform is an infrastructure that is fully open to the blockchain industry one after another based on the technical resources, traffic resources and ecological resources of Kortho Lab. The goal is to make decentralized applications more efficient and less costly to build. Kortho Open Platform will provide more diversified basic services and innovative services for global developers.
 
-## Introduction to KorTho basic chain of KeTu
+## Introduction to KorTho basic chain of KTO
  Kortho Chain is committed to building a decentralized public chain for data rights, which is equal, mutual trust, inclusive and efficient. Kortho Chain consists of P2P network, ED25519 signature algorithm, secp256k1 elliptic curve algorithm, SHA-3 encryption algorithm and BADGER persistent K-V storage database and other cryptographic technologies.
 
 The technology of Kortho Chain enables global users to easily participate in data right for corroboration and bookkeeping through the PPOS (POW ➕ POS) consensus algorithm mechanism, so that they can gain the benefits of data bookkeeping.
@@ -17,7 +17,7 @@ Help developers at every stage of their growth.
 ## Vision
 Create the center of global blockchain's data hub. Realize the super cross-chain system of interconnection of all chains.
 
-## KorTho’s Performance
+## Performance
 - TPS：5000+
 - Average block interval: 10s
 
@@ -30,29 +30,29 @@ PPOS (POW➕POS) consensus mechanism.sm.
 - The KTO rewarded at the data node out of the block will be released 30% on the same day, and the remaining 70% will be released linearly by 120 days.
 
 
-## KorTho Technical Characteristics
+## Technical Characteristics
 - Open and decentralized networks to maintain network and asset security;
 - Support proof protocol, optimize peer-to-peer transaction function.
 - Support EVM programmability, smart contract compatibility, reduce development or migration costs;
 
 
-## Koto base chain KorTho current stage
+## Current Stage
 In October 2021, KorTho Chain will officially launch the "public test" phase of PPOS (PoW ➕ POS), which will focus on improving the on-chain infrastructure, including but not limited to: prophecy machines, voting tools, anchor coins, DEX, lending, finance, insurance, synthetic assets, cross-chain solutions, data analytics, smart contract innovation, etc.
 
-## Koto Foundation Chain KorTho Support program
-### Fund support plan
+## Support Planning
+### Support planning for funds
 - KorTho will set up a special fund to invest, support and encourage quality developers
 - KorTho will launch a variety of developer activities and competitions to identify and fund potential developers around the world
 - In order to reduce the participation costs of large users on KorTho Dapp, KorTho on-chain transactions will minimize the transaction fees of KTO holders
 
-### Flow support planning
-Koto LABS will support the development of KorTho, the koto base chain
+### Support planning for flow
+Kortho Lab will strongly support the development of KorTho Chain
 - Provide in-station traffic entry for premium DApps on KorTho
 
-### Resource support planning
+### Support planning for resource
 - Funded projects or developers can not only get official coverage, but also apply to official marketing service packages and promote their projects worldwide
 - Quality projects can participate in KorTho global roadshow activities free of charge
-- Ketu Lab will open technological ecological resources and match high-quality developers with ecological partners for win-win cooperation
+- KTO Lab will open technological ecological resources and match high-quality developers with ecological partners for win-win cooperation
 
 ## Risk Warning
 - All users and developers can participate in KorTho's test environment and subsequent phases for free. There is no charge.

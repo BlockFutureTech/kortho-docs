@@ -12,7 +12,7 @@ let account = new Web3Accounts().create()
 console.log(`account generated. address: ${account.address}, private key: ${account.privateKey}`)
 ```
 
-## Construction trade
+## Constructing Transactions
 ```
 const Web3 = require('web3')
 async function transfer(fromAccount, to, value){
