@@ -2,20 +2,20 @@
 
 
 ## Introduction to KeTu Open Platform
-KeTu Open platform is an infrastructure that is gradually open to the blockchain industry based on the technical resources, flow resources and ecological resources of KeTu Laboratory. The goal is to make decentralized applications more efficient and cheaper to build. Koto Open Platform will provide more diversified basic services and innovative services for global developers.
+Kortho Open Platform is an infrastructure that is fully open to the blockchain industry one after another based on the technical resources, traffic resources and ecological resources of Kortho Lab. The goal is to make decentralized applications more efficient and less costly to build. Kortho Open Platform will provide more diversified basic services and innovative services for global developers.
 
 ## Introduction to KorTho basic chain of KeTu
- KeTu foundation chain is committed to creating an equality. Mutual trust. Universal benefits. Efficient decentralized data right confirmation bottom public chain. Keto chain consists of P2P network, ED25519 signature algorithm, SECP256K1 elliptic curve algorithm, SHA-3 encryption algorithm and BADGER persistent K-V storage database cryptography technology.
+ Kortho Chain is committed to building a decentralized public chain for data rights, which is equal, mutual trust, inclusive and efficient. Kortho Chain consists of P2P network, ED25519 signature algorithm, secp256k1 elliptic curve algorithm, SHA-3 encryption algorithm and BADGER persistent K-V storage database and other cryptographic technologies.
 
-KeTu basic chain technology through PPOS (POW➕POS) consensus algorithm mechanism, can enable global users to easily participate in data confirmation bookkeeping, and obtain the benefits of data bookkeeping.
+The technology of Kortho Chain enables global users to easily participate in data right for corroboration and bookkeeping through the PPOS (POW ➕ POS) consensus algorithm mechanism, so that they can gain the benefits of data bookkeeping.
 
-Specific smart contracts of Koto basic chain will interweave and interact with ethereum EVM smart contracts and smart contracts of various public chains to realize cross-chain technology and bring users a more efficient, friendly and smooth interactive experience. At the same time, technology developers around the world can develop various applications such as issuing KRC-20 tokens in KeTu base chain more friendly. NFT. DeFi. Games and meta-universes.
+The specific smart contracts of Kortho Chain will interact with the smart contracts of Ether EVM and various public chains to achieve cross-chain technology, thus bringing users a more efficient, friendly and smooth interaction experience. At the same time, global technology developers can develop various applications such as KRC-20 tokens, NFT, DeFi, games and metaverse in Kortho Chain.
 
 ## Declaration
 Help developers at every stage of their growth. 
 
 ## Vision
-To build the global blockchain data hub center and realize the super cross-chain underlying system of interconnection.
+Create the center of global blockchain's data hub. Realize the super cross-chain system of interconnection of all chains.
 
 ## KorTho’s Performance
 - TPS：5000+
@@ -25,9 +25,9 @@ To build the global blockchain data hub center and realize the super cross-chain
 PPOS (POW➕POS) consensus mechanism.sm.
 
 ## Economic Model 
-- For 10S of data, one block is produced, and 1.6778 KTO is produced in one block, and 10%KTO is produced in one block every year.
-- Data node pledge KTO reduces the calculation difficulty and increases the number of blocks produced. The pledge period of data nodes is 120 days, and the linear release period is 120 days.
-- 30% of THE KTO stimulated by block generation of data nodes will be released on the same day, and the remaining 70% will be released linearly in 120 days.
+- The data can produce 1 block in 10 seconds and 1 block can incentivize the output of 1.6778 KTO. Each year output block will be will be reduced by 10% of the KTO incentive.
+- Data node pledge KTO reduces the difficulty of calculation and improves the probability of block production. The pledge period of data node is 120 days, and the linear release period is 120 days.
+- The KTO rewarded at the data node out of the block will be released 30% on the same day, and the remaining 70% will be released linearly by 120 days.
 
 
 ## KorTho Technical Characteristics
@@ -37,7 +37,7 @@ PPOS (POW➕POS) consensus mechanism.sm.
 
 
 ## Koto base chain KorTho current stage
-In October 2021, KorTho will officially launch the new consensus mechanism phase of "public beta" PPOS(PoW➕POS), which will focus on improving the on-chain infrastructure, including but not limited to: Prophets, voting tools, anchor coins, DEX, lending, wealth management, insurance, synthetic assets, cross-chain solutions, data analytics, smart contract innovation, and more.
+In October 2021, KorTho Chain will officially launch the "public test" phase of PPOS (PoW ➕ POS), which will focus on improving the on-chain infrastructure, including but not limited to: prophecy machines, voting tools, anchor coins, DEX, lending, finance, insurance, synthetic assets, cross-chain solutions, data analytics, smart contract innovation, etc.
 
 ## Koto Foundation Chain KorTho Support program
 ### Fund support plan
@@ -54,10 +54,10 @@ Koto LABS will support the development of KorTho, the koto base chain
 - Quality projects can participate in KorTho global roadshow activities free of charge
 - Ketu Lab will open technological ecological resources and match high-quality developers with ecological partners for win-win cooperation
 
-## Risk alert
-- All users and developers can participate in the test environment and subsequent stages of KorTho for free. There is no charging scenario
-- You must distinguish between the test environment and the main network environment. The assets generated by the test environment do not have any value. Beware of counterfeit currency fraud
-- KorTho basic chain will announce authorization, promotion and other cooperation through the official social platform. Developers and users should check carefully to avoid losses
-- Check the official website (https://www.kortho.org/) to avoid phishing of the private key.
+## Risk Warning
+- All users and developers can participate in KorTho's test environment and subsequent phases for free. There is no charge.
+- Be sure to distinguish between the test environment and the main network environment. The assets generated by the test environment do not have any value. Beware of fake currency scams.
+- KorTho will announce authorization, referrals and other cooperation through official social media platforms. Developers and users should check carefully to avoid losses.
+- Be sure to check the official website (https://www.kortho.org/) to avoid phishing your private keys.
 
 

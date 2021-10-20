@@ -1,5 +1,5 @@
 # Bind the Ethereum address
-To deploy a smart contract on KorthoChain, users first need to bind their KTO address to an Ethereum address. The user needs to send an HTTP request with a bound address.You must ensure that the user address has at least 0.5 KTO balance before sending the request
+To deploy a smart contract on kortho Chain, users need to first bind their KTO address to Ethereum address. The user needs to send a http request to bind the address, and must ensure that the user address has at least 0.1 KTO balance before sending the request.
 
 ## Send bind request
     1. Send a POST request to http://118.193.37.36:2926/BindingAddress by Postman：

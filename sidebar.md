@@ -1,5 +1,4 @@
 - [About KorTho](/intro.md)
-- [Wallet](/wallet.md)
 - Developers
     - [On-chain Interaction](/dev/sdk.md)
     - [Contract](/dev/contract.md)

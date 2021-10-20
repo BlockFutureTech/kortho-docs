@@ -1,8 +1,8 @@
-# Summary
+# Profiles
 
 KorTho support metamask
 
-> NOTE: Check compitibility before using wallet, Ledger is not supported.
+> NOTE: Please check compatibility before withdrawing to your wallet. Ledger is not supported.
 
 # metamask
 

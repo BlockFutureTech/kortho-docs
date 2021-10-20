@@ -1,6 +1,6 @@
 # Disclaimer
 
-Kortho ecochain is a decentralized public chain, developers around the world can deploy smart contracts on Kortho, all users can transfer money and transactions on Kortho. Due to its decentralized nature, we would like to remind you of the following risks with third-party DAPPs:
+KorTho is a decentralized public chain where global developers can deploy applications on it. All users can read, send and trade on KorTho. Due to the decentralized nature, we would like to remind you of the following risks of third party DAPPs.
 
 1. Whether you participate in or use the DAPP on KOrtho through any trading platform or wallet, it is your own free choice and we do not recommend it to you.
 
