@@ -8,7 +8,7 @@
     - [Krc20](/zh/dev/krc20.md)
     - [Kto10地址生成](/zh/dev/create_address10.md)
     - [Kto20地址生成](/zh/dev/create_address20.md)
-    - [Kto10地址绑定](/zh/dev/bingding_address10.md)
+    <!-- - [Kto10地址绑定](/zh/dev/bingding_address10.md) -->
     - [矿机部署信息](/zh/dev/mill_information.md)
 - 免责声明
     - [免责声明](/zh/disclaimer.md)
